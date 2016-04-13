@@ -1,0 +1,3265 @@
+format,year,month,rank,country,rating
+odi,1981,1,1,England,135
+odi,1981,1,2,West Indies,125
+odi,1981,1,3,Australia,111
+odi,1981,1,4,India,92
+odi,1981,1,5,New Zealand,88
+odi,1981,1,6,Pakistan,73
+odi,1981,2,1,England,135
+odi,1981,2,2,West Indies,125
+odi,1981,2,3,Australia,113
+odi,1981,2,4,New Zealand,101
+odi,1981,2,5,India,76
+odi,1981,2,6,Pakistan,73
+odi,1981,6,1,West Indies,133
+odi,1981,6,2,England,129
+odi,1981,6,3,Australia,113
+odi,1981,6,4,New Zealand,102
+odi,1981,6,5,Pakistan,73
+odi,1981,6,6,India,72
+odi,1981,8,1,West Indies,133
+odi,1981,8,2,England,120
+odi,1981,8,3,Australia,119
+odi,1981,8,4,New Zealand,102
+odi,1981,8,5,India,75
+odi,1981,8,6,Pakistan,68
+odi,1981,11,1,West Indies,134
+odi,1981,11,2,England,120
+odi,1981,11,3,Australia,119
+odi,1981,11,4,New Zealand,102
+odi,1981,11,5,India,75
+odi,1981,11,6,Pakistan,65
+odi,1981,12,1,England,121
+odi,1981,12,2,West Indies,118
+odi,1981,12,3,Australia,118
+odi,1981,12,4,Pakistan,105
+odi,1981,12,5,New Zealand,102
+odi,1981,12,6,India,74
+odi,1982,1,1,West Indies,125
+odi,1982,1,2,England,113
+odi,1982,1,3,Pakistan,111
+odi,1982,1,4,Australia,111
+odi,1982,1,5,New Zealand,102
+odi,1982,1,6,India,83
+odi,1982,2,1,West Indies,131
+odi,1982,2,2,Australia,110
+odi,1982,2,3,New Zealand,108
+odi,1982,2,4,England,106
+odi,1982,2,5,Pakistan,101
+odi,1982,2,6,India,90
+odi,1982,3,1,West Indies,131
+odi,1982,3,2,Australia,113
+odi,1982,3,3,Pakistan,105
+odi,1982,3,4,England,102
+odi,1982,3,5,New Zealand,101
+odi,1982,3,6,India,90
+odi,1982,6,1,West Indies,131
+odi,1982,6,2,Australia,113
+odi,1982,6,3,England,104
+odi,1982,6,4,Pakistan,103
+odi,1982,6,5,New Zealand,101
+odi,1982,6,6,India,87
+odi,1982,7,1,West Indies,131
+odi,1982,7,2,Australia,113
+odi,1982,7,3,England,109
+odi,1982,7,4,New Zealand,101
+odi,1982,7,5,Pakistan,100
+odi,1982,7,6,India,85
+odi,1982,8,1,West Indies,133
+odi,1982,8,2,Australia,111
+odi,1982,8,3,England,105
+odi,1982,8,4,Pakistan,99
+odi,1982,8,5,New Zealand,98
+odi,1982,8,6,India,86
+odi,1982,9,1,West Indies,133
+odi,1982,9,2,Australia,111
+odi,1982,9,3,England,105
+odi,1982,9,4,Pakistan,99
+odi,1982,9,5,New Zealand,98
+odi,1982,9,6,India,93
+odi,1982,10,1,West Indies,133
+odi,1982,10,2,Pakistan,108
+odi,1982,10,3,Australia,105
+odi,1982,10,4,England,105
+odi,1982,10,5,India,99
+odi,1982,10,6,New Zealand,98
+odi,1982,10,7,Sri Lanka,68
+odi,1982,12,1,West Indies,133
+odi,1982,12,2,Pakistan,111
+odi,1982,12,3,Australia,105
+odi,1982,12,4,England,105
+odi,1982,12,5,New Zealand,98
+odi,1982,12,6,India,96
+odi,1982,12,7,Sri Lanka,68
+odi,1983,1,1,West Indies,133
+odi,1983,1,2,Pakistan,109
+odi,1983,1,3,Australia,107
+odi,1983,1,4,England,105
+odi,1983,1,5,India,98
+odi,1983,1,6,New Zealand,93
+odi,1983,1,7,Sri Lanka,68
+odi,1983,2,1,West Indies,133
+odi,1983,2,2,Pakistan,111
+odi,1983,2,3,New Zealand,110
+odi,1983,2,4,Australia,101
+odi,1983,2,5,England,99
+odi,1983,2,6,India,95
+odi,1983,2,7,Sri Lanka,68
+odi,1983,3,1,West Indies,133
+odi,1983,3,2,Pakistan,111
+odi,1983,3,3,New Zealand,108
+odi,1983,3,4,Australia,107
+odi,1983,3,5,India,95
+odi,1983,3,6,England,92
+odi,1983,3,7,Sri Lanka,67
+odi,1983,4,1,West Indies,129
+odi,1983,4,2,Pakistan,111
+odi,1983,4,3,New Zealand,110
+odi,1983,4,4,Australia,105
+odi,1983,4,5,India,99
+odi,1983,4,6,England,92
+odi,1983,4,7,Sri Lanka,64
+odi,1983,6,1,West Indies,129
+odi,1983,6,2,Pakistan,111
+odi,1983,6,3,New Zealand,108
+odi,1983,6,4,Australia,100
+odi,1983,6,5,India,99
+odi,1983,6,6,England,95
+odi,1983,6,7,Sri Lanka,80
+odi,1983,8,1,West Indies,122
+odi,1983,8,2,India,114
+odi,1983,8,3,New Zealand,109
+odi,1983,8,4,Pakistan,108
+odi,1983,8,5,England,98
+odi,1983,8,6,Australia,94
+odi,1983,8,7,Sri Lanka,77
+odi,1983,9,1,West Indies,122
+odi,1983,9,2,India,117
+odi,1983,9,3,New Zealand,109
+odi,1983,9,4,Pakistan,105
+odi,1983,9,5,England,98
+odi,1983,9,6,Australia,94
+odi,1983,9,7,Sri Lanka,77
+odi,1983,10,1,West Indies,122
+odi,1983,10,2,India,120
+odi,1983,10,3,New Zealand,109
+odi,1983,10,4,Pakistan,103
+odi,1983,10,5,England,98
+odi,1983,10,6,Australia,94
+odi,1983,10,7,Sri Lanka,77
+odi,1983,11,1,West Indies,130
+odi,1983,11,2,India,114
+odi,1983,11,3,New Zealand,109
+odi,1983,11,4,Pakistan,103
+odi,1983,11,5,England,98
+odi,1983,11,6,Australia,94
+odi,1983,11,7,Sri Lanka,77
+odi,1983,12,1,West Indies,132
+odi,1983,12,2,India,112
+odi,1983,12,3,New Zealand,109
+odi,1983,12,4,Pakistan,103
+odi,1983,12,5,England,98
+odi,1983,12,6,Australia,94
+odi,1983,12,7,Sri Lanka,77
+odi,1984,1,1,West Indies,137
+odi,1984,1,2,India,109
+odi,1984,1,3,New Zealand,109
+odi,1984,1,4,Pakistan,103
+odi,1984,1,5,England,98
+odi,1984,1,6,Australia,94
+odi,1984,1,7,Sri Lanka,77
+odi,1984,2,1,West Indies,137
+odi,1984,2,2,India,109
+odi,1984,2,3,New Zealand,109
+odi,1984,2,4,Australia,101
+odi,1984,2,5,England,98
+odi,1984,2,6,Pakistan,94
+odi,1984,2,7,Sri Lanka,77
+odi,1984,3,1,West Indies,134
+odi,1984,3,2,India,109
+odi,1984,3,3,New Zealand,106
+odi,1984,3,4,Australia,103
+odi,1984,3,5,England,102
+odi,1984,3,6,Pakistan,94
+odi,1984,3,7,Sri Lanka,75
+odi,1984,4,1,West Indies,132
+odi,1984,4,2,India,109
+odi,1984,4,3,Australia,105
+odi,1984,4,4,New Zealand,104
+odi,1984,4,5,England,101
+odi,1984,4,6,Pakistan,94
+odi,1984,4,7,Sri Lanka,79
+odi,1984,5,1,West Indies,134
+odi,1984,5,2,India,112
+odi,1984,5,3,Australia,104
+odi,1984,5,4,New Zealand,104
+odi,1984,5,5,England,100
+odi,1984,5,6,Pakistan,91
+odi,1984,5,7,Sri Lanka,82
+odi,1984,6,1,West Indies,131
+odi,1984,6,2,India,112
+odi,1984,6,3,Australia,104
+odi,1984,6,4,New Zealand,104
+odi,1984,6,5,England,104
+odi,1984,6,6,Pakistan,91
+odi,1984,6,7,Sri Lanka,82
+odi,1984,8,1,West Indies,133
+odi,1984,8,2,India,113
+odi,1984,8,3,Australia,105
+odi,1984,8,4,England,104
+odi,1984,8,5,New Zealand,103
+odi,1984,8,6,Pakistan,86
+odi,1984,8,7,Sri Lanka,82
+odi,1984,9,1,West Indies,133
+odi,1984,9,2,India,108
+odi,1984,9,3,Australia,108
+odi,1984,9,4,England,104
+odi,1984,9,5,New Zealand,103
+odi,1984,9,6,Pakistan,86
+odi,1984,9,7,Sri Lanka,82
+odi,1984,10,1,West Indies,133
+odi,1984,10,2,Australia,111
+odi,1984,10,3,England,104
+odi,1984,10,4,India,104
+odi,1984,10,5,New Zealand,103
+odi,1984,10,6,Pakistan,86
+odi,1984,10,7,Sri Lanka,82
+odi,1984,11,1,West Indies,133
+odi,1984,11,2,Australia,113
+odi,1984,11,3,England,104
+odi,1984,11,4,New Zealand,98
+odi,1984,11,5,India,97
+odi,1984,11,6,Pakistan,91
+odi,1984,11,7,Sri Lanka,90
+odi,1984,12,1,West Indies,133
+odi,1984,12,2,Australia,113
+odi,1984,12,3,England,104
+odi,1984,12,4,New Zealand,97
+odi,1984,12,5,India,97
+odi,1984,12,6,Pakistan,94
+odi,1984,12,7,Sri Lanka,86
+odi,1985,1,1,West Indies,134
+odi,1985,1,2,Australia,112
+odi,1985,1,3,England,110
+odi,1985,1,4,Pakistan,97
+odi,1985,1,5,New Zealand,94
+odi,1985,1,6,India,92
+odi,1985,1,7,Sri Lanka,86
+odi,1985,2,1,West Indies,140
+odi,1985,2,2,England,110
+odi,1985,2,3,Australia,108
+odi,1985,2,4,New Zealand,99
+odi,1985,2,5,Pakistan,92
+odi,1985,2,6,India,92
+odi,1985,2,7,Sri Lanka,82
+odi,1985,3,1,West Indies,139
+odi,1985,3,2,Australia,109
+odi,1985,3,3,New Zealand,102
+odi,1985,3,4,England,101
+odi,1985,3,5,India,97
+odi,1985,3,6,Pakistan,94
+odi,1985,3,7,Sri Lanka,79
+odi,1985,4,1,West Indies,138
+odi,1985,4,2,India,107
+odi,1985,4,3,Australia,107
+odi,1985,4,4,New Zealand,98
+odi,1985,4,5,Pakistan,96
+odi,1985,4,6,England,96
+odi,1985,4,7,Sri Lanka,79
+odi,1985,5,1,West Indies,138
+odi,1985,5,2,Australia,108
+odi,1985,5,3,India,107
+odi,1985,5,4,New Zealand,97
+odi,1985,5,5,Pakistan,96
+odi,1985,5,6,England,94
+odi,1985,5,7,Sri Lanka,79
+odi,1985,6,1,West Indies,138
+odi,1985,6,2,Australia,109
+odi,1985,6,3,India,107
+odi,1985,6,4,New Zealand,97
+odi,1985,6,5,Pakistan,96
+odi,1985,6,6,England,93
+odi,1985,6,7,Sri Lanka,79
+odi,1985,8,1,West Indies,141
+odi,1985,8,2,Australia,111
+odi,1985,8,3,India,105
+odi,1985,8,4,Pakistan,95
+odi,1985,8,5,England,94
+odi,1985,8,6,New Zealand,93
+odi,1985,8,7,Sri Lanka,80
+odi,1985,9,1,West Indies,141
+odi,1985,9,2,Australia,111
+odi,1985,9,3,India,102
+odi,1985,9,4,Pakistan,95
+odi,1985,9,5,England,94
+odi,1985,9,6,New Zealand,93
+odi,1985,9,7,Sri Lanka,84
+odi,1985,10,1,West Indies,141
+odi,1985,10,2,Australia,111
+odi,1985,10,3,India,102
+odi,1985,10,4,Pakistan,98
+odi,1985,10,5,England,94
+odi,1985,10,6,New Zealand,93
+odi,1985,10,7,Sri Lanka,81
+odi,1985,11,1,West Indies,141
+odi,1985,11,2,Australia,111
+odi,1985,11,3,Pakistan,103
+odi,1985,11,4,India,102
+odi,1985,11,5,England,94
+odi,1985,11,6,New Zealand,93
+odi,1985,11,7,Sri Lanka,76
+odi,1985,12,1,West Indies,139
+odi,1985,12,2,Australia,111
+odi,1985,12,3,Pakistan,107
+odi,1985,12,4,India,98
+odi,1985,12,5,England,94
+odi,1985,12,6,New Zealand,93
+odi,1985,12,7,Sri Lanka,76
+odi,1986,1,1,West Indies,137
+odi,1986,1,2,Australia,111
+odi,1986,1,3,Pakistan,109
+odi,1986,1,4,India,101
+odi,1986,1,5,England,94
+odi,1986,1,6,New Zealand,90
+odi,1986,1,7,Sri Lanka,76
+odi,1986,2,1,West Indies,137
+odi,1986,2,2,Australia,111
+odi,1986,2,3,Pakistan,109
+odi,1986,2,4,India,100
+odi,1986,2,5,England,94
+odi,1986,2,6,New Zealand,91
+odi,1986,2,7,Sri Lanka,76
+odi,1986,3,1,West Indies,138
+odi,1986,3,2,Australia,114
+odi,1986,3,3,Pakistan,110
+odi,1986,3,4,India,97
+odi,1986,3,5,England,93
+odi,1986,3,6,New Zealand,91
+odi,1986,3,7,Sri Lanka,75
+odi,1986,4,1,West Indies,136
+odi,1986,4,2,Pakistan,111
+odi,1986,4,3,Australia,111
+odi,1986,4,4,England,98
+odi,1986,4,5,India,97
+odi,1986,4,6,New Zealand,95
+odi,1986,4,7,Sri Lanka,72
+odi,1986,5,1,West Indies,136
+odi,1986,5,2,Pakistan,113
+odi,1986,5,3,Australia,110
+odi,1986,5,4,India,100
+odi,1986,5,5,England,95
+odi,1986,5,6,New Zealand,91
+odi,1986,5,7,Sri Lanka,75
+odi,1986,7,1,West Indies,136
+odi,1986,7,2,Pakistan,113
+odi,1986,7,3,Australia,110
+odi,1986,7,4,India,98
+odi,1986,7,5,England,95
+odi,1986,7,6,New Zealand,93
+odi,1986,7,7,Sri Lanka,75
+odi,1986,8,1,West Indies,134
+odi,1986,8,2,Pakistan,120
+odi,1986,8,3,Australia,109
+odi,1986,8,4,India,97
+odi,1986,8,5,England,96
+odi,1986,8,6,New Zealand,91
+odi,1986,8,7,Sri Lanka,73
+odi,1986,9,1,West Indies,134
+odi,1986,9,2,Pakistan,120
+odi,1986,9,3,Australia,106
+odi,1986,9,4,India,100
+odi,1986,9,5,England,96
+odi,1986,9,6,New Zealand,91
+odi,1986,9,7,Sri Lanka,73
+odi,1986,10,1,West Indies,134
+odi,1986,10,2,Pakistan,120
+odi,1986,10,3,Australia,105
+odi,1986,10,4,India,100
+odi,1986,10,5,England,96
+odi,1986,10,6,New Zealand,91
+odi,1986,10,7,Sri Lanka,73
+odi,1986,11,1,West Indies,139
+odi,1986,11,2,Pakistan,117
+odi,1986,11,3,Australia,105
+odi,1986,11,4,India,101
+odi,1986,11,5,England,96
+odi,1986,11,6,New Zealand,91
+odi,1986,11,7,Sri Lanka,73
+odi,1986,12,1,West Indies,140
+odi,1986,12,2,Pakistan,117
+odi,1986,12,3,Australia,105
+odi,1986,12,4,India,101
+odi,1986,12,5,England,96
+odi,1986,12,6,New Zealand,91
+odi,1986,12,7,Sri Lanka,70
+odi,1987,1,1,West Indies,137
+odi,1987,1,2,Pakistan,121
+odi,1987,1,3,Australia,103
+odi,1987,1,4,England,101
+odi,1987,1,5,India,97
+odi,1987,1,6,New Zealand,91
+odi,1987,1,7,Sri Lanka,75
+odi,1987,2,1,West Indies,130
+odi,1987,2,2,Pakistan,119
+odi,1987,2,3,England,114
+odi,1987,2,4,Australia,107
+odi,1987,2,5,India,99
+odi,1987,2,6,New Zealand,91
+odi,1987,2,7,Sri Lanka,69
+odi,1987,3,1,West Indies,126
+odi,1987,3,2,England,121
+odi,1987,3,3,Pakistan,120
+odi,1987,3,4,Australia,107
+odi,1987,3,5,India,98
+odi,1987,3,6,New Zealand,91
+odi,1987,3,7,Sri Lanka,69
+odi,1987,4,1,West Indies,127
+odi,1987,4,2,Pakistan,120
+odi,1987,4,3,England,118
+odi,1987,4,4,Australia,107
+odi,1987,4,5,India,100
+odi,1987,4,6,New Zealand,89
+odi,1987,4,7,Sri Lanka,69
+odi,1987,5,1,West Indies,127
+odi,1987,5,2,England,123
+odi,1987,5,3,Pakistan,120
+odi,1987,5,4,Australia,104
+odi,1987,5,5,India,100
+odi,1987,5,6,New Zealand,89
+odi,1987,5,7,Sri Lanka,69
+odi,1987,8,1,England,130
+odi,1987,8,2,West Indies,123
+odi,1987,8,3,Pakistan,121
+odi,1987,8,4,Australia,102
+odi,1987,8,5,India,100
+odi,1987,8,6,New Zealand,87
+odi,1987,8,7,Sri Lanka,67
+odi,1987,10,1,England,130
+odi,1987,10,2,West Indies,123
+odi,1987,10,3,Pakistan,122
+odi,1987,10,4,Australia,102
+odi,1987,10,5,India,100
+odi,1987,10,6,New Zealand,87
+odi,1987,10,7,Sri Lanka,66
+odi,1987,11,1,England,130
+odi,1987,11,2,Pakistan,124
+odi,1987,11,3,West Indies,120
+odi,1987,11,4,Australia,107
+odi,1987,11,5,India,103
+odi,1987,11,6,New Zealand,76
+odi,1987,11,7,Sri Lanka,62
+odi,1987,12,1,England,133
+odi,1987,12,2,West Indies,121
+odi,1987,12,3,Pakistan,120
+odi,1987,12,4,Australia,110
+odi,1987,12,5,India,101
+odi,1987,12,6,New Zealand,76
+odi,1987,12,7,Sri Lanka,62
+odi,1988,1,1,England,133
+odi,1988,1,2,Pakistan,120
+odi,1988,1,3,West Indies,120
+odi,1988,1,4,Australia,110
+odi,1988,1,5,India,103
+odi,1988,1,6,New Zealand,76
+odi,1988,1,7,Sri Lanka,62
+odi,1988,2,1,England,130
+odi,1988,2,2,West Indies,124
+odi,1988,2,3,Pakistan,120
+odi,1988,2,4,Australia,113
+odi,1988,2,5,India,98
+odi,1988,2,6,New Zealand,77
+odi,1988,2,7,Sri Lanka,59
+odi,1988,3,1,England,130
+odi,1988,3,2,West Indies,124
+odi,1988,3,3,Pakistan,120
+odi,1988,3,4,Australia,113
+odi,1988,3,5,India,98
+odi,1988,3,6,New Zealand,77
+odi,1988,3,7,Sri Lanka,59
+odi,1988,4,1,West Indies,130
+odi,1988,4,2,England,125
+odi,1988,4,3,Pakistan,114
+odi,1988,4,4,Australia,113
+odi,1988,4,5,India,100
+odi,1988,4,6,New Zealand,83
+odi,1988,4,7,Sri Lanka,57
+odi,1988,5,1,West Indies,129
+odi,1988,5,2,England,127
+odi,1988,5,3,Pakistan,114
+odi,1988,5,4,Australia,113
+odi,1988,5,5,India,100
+odi,1988,5,6,New Zealand,83
+odi,1988,5,7,Sri Lanka,57
+odi,1988,8,1,England,131
+odi,1988,8,2,West Indies,127
+odi,1988,8,3,Australia,116
+odi,1988,8,4,Pakistan,110
+odi,1988,8,5,India,102
+odi,1988,8,6,New Zealand,81
+odi,1988,8,7,Sri Lanka,54
+odi,1988,9,1,England,132
+odi,1988,9,2,West Indies,127
+odi,1988,9,3,Australia,116
+odi,1988,9,4,Pakistan,110
+odi,1988,9,5,India,102
+odi,1988,9,6,New Zealand,81
+odi,1988,9,7,Sri Lanka,53
+odi,1988,10,1,England,132
+odi,1988,10,2,West Indies,127
+odi,1988,10,3,Australia,113
+odi,1988,10,4,Pakistan,113
+odi,1988,10,5,India,102
+odi,1988,10,6,New Zealand,81
+odi,1988,10,7,Sri Lanka,53
+odi,1988,11,1,England,132
+odi,1988,11,2,West Indies,124
+odi,1988,11,3,Australia,113
+odi,1988,11,4,Pakistan,109
+odi,1988,11,5,India,101
+odi,1988,11,6,New Zealand,81
+odi,1988,11,7,Sri Lanka,63
+odi,1988,12,1,England,132
+odi,1988,12,2,West Indies,125
+odi,1988,12,3,Australia,113
+odi,1988,12,4,Pakistan,108
+odi,1988,12,5,India,101
+odi,1988,12,6,New Zealand,81
+odi,1988,12,7,Sri Lanka,63
+odi,1989,1,1,England,132
+odi,1989,1,2,West Indies,130
+odi,1989,1,3,Australia,112
+odi,1989,1,4,India,105
+odi,1989,1,5,Pakistan,104
+odi,1989,1,6,New Zealand,75
+odi,1989,1,7,Sri Lanka,63
+odi,1989,2,1,England,132
+odi,1989,2,2,West Indies,125
+odi,1989,2,3,Australia,117
+odi,1989,2,4,India,105
+odi,1989,2,5,Pakistan,103
+odi,1989,2,6,New Zealand,79
+odi,1989,2,7,Sri Lanka,63
+odi,1989,3,1,England,132
+odi,1989,3,2,West Indies,125
+odi,1989,3,3,Australia,117
+odi,1989,3,4,India,105
+odi,1989,3,5,Pakistan,101
+odi,1989,3,6,New Zealand,83
+odi,1989,3,7,Sri Lanka,63
+odi,1989,5,1,England,134
+odi,1989,5,2,West Indies,128
+odi,1989,5,3,Australia,116
+odi,1989,5,4,India,101
+odi,1989,5,5,Pakistan,99
+odi,1989,5,6,New Zealand,87
+odi,1989,5,7,Sri Lanka,62
+odi,1989,8,1,West Indies,129
+odi,1989,8,2,England,127
+odi,1989,8,3,Australia,123
+odi,1989,8,4,India,100
+odi,1989,8,5,Pakistan,93
+odi,1989,8,6,New Zealand,88
+odi,1989,8,7,Sri Lanka,63
+odi,1989,10,1,West Indies,130
+odi,1989,10,2,England,127
+odi,1989,10,3,Australia,123
+odi,1989,10,4,India,99
+odi,1989,10,5,Pakistan,93
+odi,1989,10,6,New Zealand,88
+odi,1989,10,7,Sri Lanka,63
+odi,1989,11,1,West Indies,119
+odi,1989,11,2,England,119
+odi,1989,11,3,Australia,116
+odi,1989,11,4,Pakistan,112
+odi,1989,11,5,India,101
+odi,1989,11,6,New Zealand,88
+odi,1989,11,7,Sri Lanka,67
+odi,1989,12,1,West Indies,119
+odi,1989,12,2,England,119
+odi,1989,12,3,Australia,116
+odi,1989,12,4,Pakistan,113
+odi,1989,12,5,India,99
+odi,1989,12,6,New Zealand,88
+odi,1989,12,7,Sri Lanka,67
+odi,1990,1,1,Australia,119
+odi,1990,1,2,West Indies,119
+odi,1990,1,3,England,119
+odi,1990,1,4,Pakistan,110
+odi,1990,1,5,India,98
+odi,1990,1,6,New Zealand,88
+odi,1990,1,7,Sri Lanka,71
+odi,1990,2,1,Australia,120
+odi,1990,2,2,West Indies,119
+odi,1990,2,3,England,119
+odi,1990,2,4,Pakistan,111
+odi,1990,2,5,India,98
+odi,1990,2,6,New Zealand,88
+odi,1990,2,7,Sri Lanka,70
+odi,1990,3,1,Australia,120
+odi,1990,3,2,West Indies,119
+odi,1990,3,3,England,119
+odi,1990,3,4,Pakistan,111
+odi,1990,3,5,India,96
+odi,1990,3,6,New Zealand,92
+odi,1990,3,7,Sri Lanka,68
+odi,1990,4,1,West Indies,124
+odi,1990,4,2,Australia,123
+odi,1990,4,3,Pakistan,111
+odi,1990,4,4,England,109
+odi,1990,4,5,India,96
+odi,1990,4,6,New Zealand,86
+odi,1990,4,7,Sri Lanka,68
+odi,1990,5,1,Australia,124
+odi,1990,5,2,West Indies,124
+odi,1990,5,3,Pakistan,112
+odi,1990,5,4,England,109
+odi,1990,5,5,India,92
+odi,1990,5,6,New Zealand,85
+odi,1990,5,7,Sri Lanka,71
+odi,1990,7,1,West Indies,124
+odi,1990,7,2,Australia,122
+odi,1990,7,3,Pakistan,114
+odi,1990,7,4,England,104
+odi,1990,7,5,India,94
+odi,1990,7,6,New Zealand,87
+odi,1990,7,7,Sri Lanka,71
+odi,1990,8,1,Australia,122
+odi,1990,8,2,West Indies,121
+odi,1990,8,3,Pakistan,117
+odi,1990,8,4,India,95
+odi,1990,8,5,England,89
+odi,1990,8,6,New Zealand,88
+odi,1990,8,7,Sri Lanka,76
+odi,1990,11,1,Australia,122
+odi,1990,11,2,West Indies,121
+odi,1990,11,3,Pakistan,118
+odi,1990,11,4,India,95
+odi,1990,11,5,England,89
+odi,1990,11,6,New Zealand,86
+odi,1990,11,7,Sri Lanka,76
+odi,1990,12,1,Pakistan,124
+odi,1990,12,2,Australia,122
+odi,1990,12,3,West Indies,114
+odi,1990,12,4,India,95
+odi,1990,12,5,New Zealand,86
+odi,1990,12,6,England,84
+odi,1990,12,7,Sri Lanka,76
+odi,1991,1,1,Pakistan,122
+odi,1991,1,2,Australia,121
+odi,1991,1,3,West Indies,114
+odi,1991,1,4,India,91
+odi,1991,1,5,New Zealand,87
+odi,1991,1,6,England,85
+odi,1991,1,7,Sri Lanka,85
+odi,1991,2,1,Australia,123
+odi,1991,2,2,Pakistan,122
+odi,1991,2,3,West Indies,114
+odi,1991,2,4,India,93
+odi,1991,2,5,New Zealand,91
+odi,1991,2,6,England,84
+odi,1991,2,7,Sri Lanka,77
+odi,1991,3,1,Australia,125
+odi,1991,3,2,Pakistan,122
+odi,1991,3,3,West Indies,110
+odi,1991,3,4,India,93
+odi,1991,3,5,New Zealand,92
+odi,1991,3,6,England,82
+odi,1991,3,7,Sri Lanka,77
+odi,1991,5,1,Australia,126
+odi,1991,5,2,Pakistan,122
+odi,1991,5,3,West Indies,107
+odi,1991,5,4,India,93
+odi,1991,5,5,New Zealand,92
+odi,1991,5,6,England,86
+odi,1991,5,7,Sri Lanka,77
+odi,1991,8,1,Pakistan,131
+odi,1991,8,2,Australia,127
+odi,1991,8,3,New Zealand,92
+odi,1991,8,4,India,91
+odi,1991,8,5,West Indies,90
+odi,1991,8,6,England,90
+odi,1991,8,7,Sri Lanka,77
+odi,1991,10,1,Australia,127
+odi,1991,10,2,Pakistan,125
+odi,1991,10,3,West Indies,97
+odi,1991,10,4,New Zealand,92
+odi,1991,10,5,India,91
+odi,1991,10,6,England,90
+odi,1991,10,7,Sri Lanka,77
+odi,1991,11,1,Australia,127
+odi,1991,11,2,Pakistan,125
+odi,1991,11,3,India,104
+odi,1991,11,4,New Zealand,92
+odi,1991,11,5,England,90
+odi,1991,11,6,West Indies,89
+odi,1991,11,7,Sri Lanka,77
+odi,1991,11,8,South Africa,51
+odi,1991,12,1,Australia,127
+odi,1991,12,2,Pakistan,116
+odi,1991,12,3,India,100
+odi,1991,12,4,West Indies,99
+odi,1991,12,5,New Zealand,92
+odi,1991,12,6,England,90
+odi,1991,12,7,Sri Lanka,77
+odi,1991,12,8,South Africa,76
+odi,1992,1,1,Australia,128
+odi,1992,1,2,Pakistan,116
+odi,1992,1,3,India,103
+odi,1992,1,4,West Indies,95
+odi,1992,1,5,New Zealand,92
+odi,1992,1,6,England,90
+odi,1992,1,7,Sri Lanka,76
+odi,1992,1,8,South Africa,76
+odi,1992,2,1,Australia,127
+odi,1992,2,2,Pakistan,114
+odi,1992,2,3,India,100
+odi,1992,2,4,West Indies,99
+odi,1992,2,5,England,97
+odi,1992,2,6,New Zealand,86
+odi,1992,2,7,Sri Lanka,79
+odi,1992,2,8,South Africa,76
+odi,1992,3,1,Australia,122
+odi,1992,3,2,Pakistan,112
+odi,1992,3,3,England,104
+odi,1992,3,4,West Indies,100
+odi,1992,3,5,India,97
+odi,1992,3,6,New Zealand,93
+odi,1992,3,7,South Africa,87
+odi,1992,3,8,Sri Lanka,77
+odi,1992,4,1,Australia,119
+odi,1992,4,2,Pakistan,114
+odi,1992,4,3,England,108
+odi,1992,4,4,West Indies,99
+odi,1992,4,5,New Zealand,98
+odi,1992,4,6,India,94
+odi,1992,4,7,South Africa,90
+odi,1992,4,8,Sri Lanka,76
+odi,1992,5,1,Australia,119
+odi,1992,5,2,Pakistan,112
+odi,1992,5,3,England,110
+odi,1992,5,4,West Indies,101
+odi,1992,5,5,New Zealand,98
+odi,1992,5,6,India,94
+odi,1992,5,7,South Africa,84
+odi,1992,5,8,Sri Lanka,76
+odi,1992,8,1,England,120
+odi,1992,8,2,Australia,117
+odi,1992,8,3,Pakistan,104
+odi,1992,8,4,West Indies,100
+odi,1992,8,5,New Zealand,100
+odi,1992,8,6,India,95
+odi,1992,8,7,South Africa,84
+odi,1992,8,8,Sri Lanka,76
+odi,1992,9,1,England,120
+odi,1992,9,2,Australia,107
+odi,1992,9,3,Pakistan,104
+odi,1992,9,4,West Indies,100
+odi,1992,9,5,New Zealand,100
+odi,1992,9,6,India,95
+odi,1992,9,7,Sri Lanka,90
+odi,1992,9,8,South Africa,84
+odi,1992,10,1,England,120
+odi,1992,10,2,Australia,109
+odi,1992,10,3,Pakistan,104
+odi,1992,10,4,West Indies,100
+odi,1992,10,5,New Zealand,100
+odi,1992,10,6,India,97
+odi,1992,10,7,Sri Lanka,88
+odi,1992,10,8,South Africa,84
+odi,1992,11,1,England,120
+odi,1992,11,2,Australia,109
+odi,1992,11,3,Pakistan,104
+odi,1992,11,4,New Zealand,101
+odi,1992,11,5,West Indies,100
+odi,1992,11,6,India,97
+odi,1992,11,7,Sri Lanka,88
+odi,1992,11,8,South Africa,84
+odi,1992,12,1,England,120
+odi,1992,12,2,Australia,109
+odi,1992,12,3,Pakistan,106
+odi,1992,12,4,New Zealand,101
+odi,1992,12,5,West Indies,98
+odi,1992,12,6,India,97
+odi,1992,12,7,Sri Lanka,88
+odi,1992,12,8,South Africa,84
+odi,1993,1,1,England,120
+odi,1993,1,2,Australia,112
+odi,1993,1,3,West Indies,103
+odi,1993,1,4,New Zealand,98
+odi,1993,1,5,South Africa,97
+odi,1993,1,6,Pakistan,96
+odi,1993,1,7,Sri Lanka,96
+odi,1993,1,8,India,90
+odi,1993,2,1,England,117
+odi,1993,2,2,West Indies,109
+odi,1993,2,3,Australia,108
+odi,1993,2,4,New Zealand,98
+odi,1993,2,5,South Africa,97
+odi,1993,2,6,Sri Lanka,96
+odi,1993,2,7,Pakistan,94
+odi,1993,2,8,India,92
+odi,1993,3,1,England,119
+odi,1993,3,2,West Indies,111
+odi,1993,3,3,Australia,108
+odi,1993,3,4,New Zealand,98
+odi,1993,3,5,Pakistan,97
+odi,1993,3,6,South Africa,94
+odi,1993,3,7,India,91
+odi,1993,3,8,Sri Lanka,91
+odi,1993,4,1,West Indies,109
+odi,1993,4,2,Australia,108
+odi,1993,4,3,England,107
+odi,1993,4,4,Pakistan,98
+odi,1993,4,5,New Zealand,98
+odi,1993,4,6,Sri Lanka,97
+odi,1993,4,7,India,96
+odi,1993,4,8,South Africa,94
+odi,1993,4,9,Zimbabwe,27
+odi,1993,5,1,Australia,109
+odi,1993,5,2,West Indies,109
+odi,1993,5,3,England,105
+odi,1993,5,4,Pakistan,98
+odi,1993,5,5,New Zealand,98
+odi,1993,5,6,Sri Lanka,97
+odi,1993,5,7,India,96
+odi,1993,5,8,South Africa,94
+odi,1993,5,9,Zimbabwe,27
+odi,1993,7,1,Australia,112
+odi,1993,7,2,West Indies,109
+odi,1993,7,3,England,101
+odi,1993,7,4,Pakistan,98
+odi,1993,7,5,India,98
+odi,1993,7,6,New Zealand,98
+odi,1993,7,7,Sri Lanka,95
+odi,1993,7,8,South Africa,94
+odi,1993,7,9,Zimbabwe,27
+odi,1993,8,1,West Indies,113
+odi,1993,8,2,Australia,108
+odi,1993,8,3,Sri Lanka,101
+odi,1993,8,4,England,100
+odi,1993,8,5,India,99
+odi,1993,8,6,New Zealand,98
+odi,1993,8,7,Pakistan,96
+odi,1993,8,8,South Africa,95
+odi,1993,8,9,Zimbabwe,27
+odi,1993,9,1,West Indies,113
+odi,1993,9,2,Australia,108
+odi,1993,9,3,Sri Lanka,103
+odi,1993,9,4,England,100
+odi,1993,9,5,South Africa,99
+odi,1993,9,6,New Zealand,98
+odi,1993,9,7,Pakistan,96
+odi,1993,9,8,India,95
+odi,1993,9,9,Zimbabwe,27
+odi,1993,10,1,West Indies,115
+odi,1993,10,2,Australia,108
+odi,1993,10,3,Sri Lanka,104
+odi,1993,10,4,England,100
+odi,1993,10,5,New Zealand,98
+odi,1993,10,6,Pakistan,96
+odi,1993,10,7,South Africa,96
+odi,1993,10,8,India,95
+odi,1993,10,9,Zimbabwe,27
+odi,1993,11,1,West Indies,114
+odi,1993,11,2,Australia,108
+odi,1993,11,3,Sri Lanka,100
+odi,1993,11,4,England,100
+odi,1993,11,5,Pakistan,99
+odi,1993,11,6,New Zealand,98
+odi,1993,11,7,South Africa,96
+odi,1993,11,8,India,95
+odi,1993,11,9,Zimbabwe,27
+odi,1993,12,1,West Indies,115
+odi,1993,12,2,Australia,105
+odi,1993,12,3,India,101
+odi,1993,12,4,South Africa,100
+odi,1993,12,5,Pakistan,100
+odi,1993,12,6,England,100
+odi,1993,12,7,New Zealand,98
+odi,1993,12,8,Sri Lanka,89
+odi,1993,12,9,Zimbabwe,29
+odi,1994,1,1,West Indies,113
+odi,1994,1,2,Australia,111
+odi,1994,1,3,Pakistan,101
+odi,1994,1,4,India,101
+odi,1994,1,5,England,100
+odi,1994,1,6,New Zealand,99
+odi,1994,1,7,South Africa,93
+odi,1994,1,8,Sri Lanka,91
+odi,1994,1,9,Zimbabwe,26
+odi,1994,2,1,West Indies,113
+odi,1994,2,2,Australia,109
+odi,1994,2,3,India,102
+odi,1994,2,4,Pakistan,101
+odi,1994,2,5,England,100
+odi,1994,2,6,New Zealand,97
+odi,1994,2,7,South Africa,96
+odi,1994,2,8,Sri Lanka,90
+odi,1994,2,9,Zimbabwe,26
+odi,1994,3,1,West Indies,114
+odi,1994,3,2,Australia,105
+odi,1994,3,3,South Africa,101
+odi,1994,3,4,Pakistan,101
+odi,1994,3,5,India,101
+odi,1994,3,6,England,99
+odi,1994,3,7,New Zealand,97
+odi,1994,3,8,Sri Lanka,91
+odi,1994,3,9,Zimbabwe,26
+odi,1994,4,1,West Indies,113
+odi,1994,4,2,Australia,105
+odi,1994,4,3,Pakistan,102
+odi,1994,4,4,England,101
+odi,1994,4,5,South Africa,101
+odi,1994,4,6,India,100
+odi,1994,4,7,New Zealand,95
+odi,1994,4,8,Sri Lanka,91
+odi,1994,4,9,Zimbabwe,26
+odi,1994,5,1,West Indies,113
+odi,1994,5,2,Australia,108
+odi,1994,5,3,Pakistan,105
+odi,1994,5,4,England,103
+odi,1994,5,5,South Africa,99
+odi,1994,5,6,India,99
+odi,1994,5,7,New Zealand,93
+odi,1994,5,8,Sri Lanka,88
+odi,1994,5,9,Zimbabwe,26
+odi,1994,8,1,West Indies,114
+odi,1994,8,2,Pakistan,109
+odi,1994,8,3,Australia,107
+odi,1994,8,4,South Africa,101
+odi,1994,8,5,India,100
+odi,1994,8,6,England,96
+odi,1994,8,7,New Zealand,91
+odi,1994,8,8,Sri Lanka,88
+odi,1994,8,9,Zimbabwe,26
+odi,1994,9,1,West Indies,114
+odi,1994,9,2,Pakistan,111
+odi,1994,9,3,Australia,107
+odi,1994,9,4,England,106
+odi,1994,9,5,India,97
+odi,1994,9,6,South Africa,96
+odi,1994,9,7,New Zealand,91
+odi,1994,9,8,Sri Lanka,89
+odi,1994,9,9,Zimbabwe,26
+odi,1994,10,1,West Indies,114
+odi,1994,10,2,Australia,106
+odi,1994,10,3,Pakistan,106
+odi,1994,10,4,England,106
+odi,1994,10,5,India,102
+odi,1994,10,6,South Africa,94
+odi,1994,10,7,Sri Lanka,93
+odi,1994,10,8,New Zealand,91
+odi,1994,10,9,Zimbabwe,26
+odi,1994,11,1,West Indies,114
+odi,1994,11,2,Australia,110
+odi,1994,11,3,Pakistan,108
+odi,1994,11,4,England,106
+odi,1994,11,5,India,105
+odi,1994,11,6,Sri Lanka,93
+odi,1994,11,7,New Zealand,88
+odi,1994,11,8,South Africa,87
+odi,1994,11,9,Zimbabwe,26
+odi,1994,12,1,India,114
+odi,1994,12,2,Australia,110
+odi,1994,12,3,Pakistan,108
+odi,1994,12,4,West Indies,106
+odi,1994,12,5,England,106
+odi,1994,12,6,Sri Lanka,90
+odi,1994,12,7,South Africa,87
+odi,1994,12,8,New Zealand,86
+odi,1994,12,9,Zimbabwe,33
+odi,1995,1,1,India,114
+odi,1995,1,2,Australia,112
+odi,1995,1,3,Pakistan,110
+odi,1995,1,4,West Indies,106
+odi,1995,1,5,England,96
+odi,1995,1,6,South Africa,92
+odi,1995,1,7,Sri Lanka,90
+odi,1995,1,8,New Zealand,78
+odi,1995,1,9,Zimbabwe,38
+odi,1995,2,1,India,114
+odi,1995,2,2,Australia,111
+odi,1995,2,3,West Indies,108
+odi,1995,2,4,Pakistan,106
+odi,1995,2,5,England,100
+odi,1995,2,6,South Africa,94
+odi,1995,2,7,Sri Lanka,90
+odi,1995,2,8,New Zealand,76
+odi,1995,2,9,Zimbabwe,38
+odi,1995,3,1,India,110
+odi,1995,3,2,West Indies,110
+odi,1995,3,3,Australia,109
+odi,1995,3,4,Pakistan,104
+odi,1995,3,5,England,100
+odi,1995,3,6,South Africa,94
+odi,1995,3,7,Sri Lanka,90
+odi,1995,3,8,New Zealand,80
+odi,1995,3,9,Zimbabwe,46
+odi,1995,4,1,West Indies,112
+odi,1995,4,2,India,110
+odi,1995,4,3,Australia,107
+odi,1995,4,4,Pakistan,104
+odi,1995,4,5,England,100
+odi,1995,4,6,South Africa,94
+odi,1995,4,7,Sri Lanka,88
+odi,1995,4,8,New Zealand,82
+odi,1995,4,9,Zimbabwe,46
+odi,1995,5,1,West Indies,113
+odi,1995,5,2,India,110
+odi,1995,5,3,Australia,107
+odi,1995,5,4,Pakistan,104
+odi,1995,5,5,England,98
+odi,1995,5,6,South Africa,94
+odi,1995,5,7,Sri Lanka,88
+odi,1995,5,8,New Zealand,82
+odi,1995,5,9,Zimbabwe,46
+odi,1995,8,1,India,114
+odi,1995,8,2,England,113
+odi,1995,8,3,West Indies,108
+odi,1995,8,4,Australia,107
+odi,1995,8,5,Pakistan,105
+odi,1995,8,6,South Africa,93
+odi,1995,8,7,Sri Lanka,86
+odi,1995,8,8,New Zealand,79
+odi,1995,8,9,Zimbabwe,52
+odi,1995,9,1,India,114
+odi,1995,9,2,England,113
+odi,1995,9,3,West Indies,108
+odi,1995,9,4,Australia,107
+odi,1995,9,5,Pakistan,106
+odi,1995,9,6,South Africa,93
+odi,1995,9,7,Sri Lanka,84
+odi,1995,9,8,New Zealand,79
+odi,1995,9,9,Zimbabwe,52
+odi,1995,10,1,India,114
+odi,1995,10,2,England,113
+odi,1995,10,3,West Indies,108
+odi,1995,10,4,Australia,107
+odi,1995,10,5,Pakistan,103
+odi,1995,10,6,South Africa,93
+odi,1995,10,7,Sri Lanka,87
+odi,1995,10,8,New Zealand,79
+odi,1995,10,9,Zimbabwe,52
+odi,1995,11,1,England,113
+odi,1995,11,2,India,109
+odi,1995,11,3,Australia,107
+odi,1995,11,4,West Indies,104
+odi,1995,11,5,Pakistan,100
+odi,1995,11,6,South Africa,94
+odi,1995,11,7,Sri Lanka,94
+odi,1995,11,8,New Zealand,84
+odi,1995,11,9,Zimbabwe,50
+odi,1995,12,1,England,113
+odi,1995,12,2,India,109
+odi,1995,12,3,Australia,107
+odi,1995,12,4,West Indies,104
+odi,1995,12,5,Pakistan,101
+odi,1995,12,6,South Africa,94
+odi,1995,12,7,Sri Lanka,94
+odi,1995,12,8,New Zealand,82
+odi,1995,12,9,Zimbabwe,50
+odi,1996,1,1,Australia,113
+odi,1996,1,2,England,113
+odi,1996,1,3,India,109
+odi,1996,1,4,Pakistan,98
+odi,1996,1,5,West Indies,97
+odi,1996,1,6,Sri Lanka,95
+odi,1996,1,7,South Africa,94
+odi,1996,1,8,New Zealand,86
+odi,1996,1,9,Zimbabwe,50
+odi,1996,2,1,Australia,110
+odi,1996,2,2,India,109
+odi,1996,2,3,South Africa,104
+odi,1996,2,4,West Indies,100
+odi,1996,2,5,Pakistan,98
+odi,1996,2,6,Sri Lanka,94
+odi,1996,2,7,England,89
+odi,1996,2,8,New Zealand,84
+odi,1996,2,9,Zimbabwe,54
+odi,1996,3,1,Australia,112
+odi,1996,3,2,India,109
+odi,1996,3,3,South Africa,107
+odi,1996,3,4,West Indies,99
+odi,1996,3,5,Pakistan,97
+odi,1996,3,6,Sri Lanka,95
+odi,1996,3,7,New Zealand,85
+odi,1996,3,8,England,84
+odi,1996,3,9,Zimbabwe,52
+odi,1996,4,1,Australia,110
+odi,1996,4,2,South Africa,106
+odi,1996,4,3,India,106
+odi,1996,4,4,West Indies,101
+odi,1996,4,5,Sri Lanka,101
+odi,1996,4,6,Pakistan,97
+odi,1996,4,7,New Zealand,83
+odi,1996,4,8,England,80
+odi,1996,4,9,Zimbabwe,52
+odi,1996,5,1,South Africa,112
+odi,1996,5,2,Australia,110
+odi,1996,5,3,Sri Lanka,100
+odi,1996,5,4,India,100
+odi,1996,5,5,West Indies,99
+odi,1996,5,6,Pakistan,98
+odi,1996,5,7,New Zealand,84
+odi,1996,5,8,England,84
+odi,1996,5,9,Zimbabwe,52
+odi,1996,8,1,South Africa,118
+odi,1996,8,2,Australia,112
+odi,1996,8,3,Sri Lanka,104
+odi,1996,8,4,West Indies,96
+odi,1996,8,5,India,95
+odi,1996,8,6,Pakistan,94
+odi,1996,8,7,New Zealand,84
+odi,1996,8,8,England,82
+odi,1996,8,9,Zimbabwe,54
+odi,1996,9,1,South Africa,118
+odi,1996,9,2,Australia,109
+odi,1996,9,3,Sri Lanka,108
+odi,1996,9,4,West Indies,96
+odi,1996,9,5,India,94
+odi,1996,9,6,England,91
+odi,1996,9,7,Pakistan,89
+odi,1996,9,8,New Zealand,84
+odi,1996,9,9,Zimbabwe,52
+odi,1996,10,1,South Africa,116
+odi,1996,10,2,Sri Lanka,112
+odi,1996,10,3,Australia,109
+odi,1996,10,4,West Indies,96
+odi,1996,10,5,Pakistan,92
+odi,1996,10,6,India,90
+odi,1996,10,7,England,87
+odi,1996,10,8,New Zealand,84
+odi,1996,10,9,Zimbabwe,52
+odi,1996,11,1,South Africa,124
+odi,1996,11,2,Sri Lanka,110
+odi,1996,11,3,Australia,102
+odi,1996,11,4,West Indies,96
+odi,1996,11,5,Pakistan,94
+odi,1996,11,6,India,90
+odi,1996,11,7,England,87
+odi,1996,11,8,New Zealand,84
+odi,1996,11,9,Zimbabwe,51
+odi,1996,12,1,South Africa,121
+odi,1996,12,2,Sri Lanka,106
+odi,1996,12,3,Australia,99
+odi,1996,12,4,Pakistan,99
+odi,1996,12,5,West Indies,96
+odi,1996,12,6,India,94
+odi,1996,12,7,England,87
+odi,1996,12,8,New Zealand,82
+odi,1996,12,9,Zimbabwe,50
+odi,1997,1,1,South Africa,119
+odi,1997,1,2,Sri Lanka,106
+odi,1997,1,3,Australia,99
+odi,1997,1,4,Pakistan,99
+odi,1997,1,5,India,97
+odi,1997,1,6,West Indies,95
+odi,1997,1,7,New Zealand,83
+odi,1997,1,8,England,82
+odi,1997,1,9,Zimbabwe,55
+odi,1997,2,1,South Africa,121
+odi,1997,2,2,Sri Lanka,106
+odi,1997,2,3,Pakistan,100
+odi,1997,2,4,West Indies,97
+odi,1997,2,5,Australia,96
+odi,1997,2,6,India,94
+odi,1997,2,7,New Zealand,83
+odi,1997,2,8,England,73
+odi,1997,2,9,Zimbabwe,63
+odi,1997,3,1,South Africa,122
+odi,1997,3,2,Sri Lanka,106
+odi,1997,3,3,Pakistan,100
+odi,1997,3,4,West Indies,97
+odi,1997,3,5,Australia,96
+odi,1997,3,6,India,90
+odi,1997,3,7,New Zealand,81
+odi,1997,3,8,England,77
+odi,1997,3,9,Zimbabwe,69
+odi,1997,4,1,South Africa,122
+odi,1997,4,2,Sri Lanka,105
+odi,1997,4,3,Pakistan,100
+odi,1997,4,4,Australia,97
+odi,1997,4,5,West Indies,97
+odi,1997,4,6,India,90
+odi,1997,4,7,New Zealand,84
+odi,1997,4,8,England,75
+odi,1997,4,9,Zimbabwe,69
+odi,1997,5,1,South Africa,117
+odi,1997,5,2,Sri Lanka,106
+odi,1997,5,3,Australia,101
+odi,1997,5,4,West Indies,99
+odi,1997,5,5,Pakistan,98
+odi,1997,5,6,India,89
+odi,1997,5,7,New Zealand,84
+odi,1997,5,8,England,75
+odi,1997,5,9,Zimbabwe,70
+odi,1997,6,1,South Africa,117
+odi,1997,6,2,Sri Lanka,107
+odi,1997,6,3,West Indies,100
+odi,1997,6,4,Pakistan,97
+odi,1997,6,5,Australia,96
+odi,1997,6,6,India,88
+odi,1997,6,7,England,84
+odi,1997,6,8,New Zealand,83
+odi,1997,6,9,Zimbabwe,70
+odi,1997,7,1,South Africa,117
+odi,1997,7,2,Sri Lanka,108
+odi,1997,7,3,West Indies,100
+odi,1997,7,4,Pakistan,97
+odi,1997,7,5,Australia,96
+odi,1997,7,6,India,88
+odi,1997,7,7,England,84
+odi,1997,7,8,New Zealand,83
+odi,1997,7,9,Zimbabwe,70
+odi,1997,8,1,South Africa,121
+odi,1997,8,2,Sri Lanka,113
+odi,1997,8,3,West Indies,100
+odi,1997,8,4,Pakistan,97
+odi,1997,8,5,Australia,93
+odi,1997,8,6,New Zealand,85
+odi,1997,8,7,India,83
+odi,1997,8,8,England,80
+odi,1997,8,9,Zimbabwe,72
+odi,1997,9,1,South Africa,121
+odi,1997,9,2,Sri Lanka,115
+odi,1997,9,3,West Indies,100
+odi,1997,9,4,Pakistan,96
+odi,1997,9,5,Australia,93
+odi,1997,9,6,New Zealand,85
+odi,1997,9,7,India,83
+odi,1997,9,8,England,80
+odi,1997,9,9,Zimbabwe,72
+odi,1997,10,1,South Africa,121
+odi,1997,10,2,Sri Lanka,115
+odi,1997,10,3,West Indies,100
+odi,1997,10,4,Australia,93
+odi,1997,10,5,Pakistan,92
+odi,1997,10,6,India,87
+odi,1997,10,7,New Zealand,84
+odi,1997,10,8,England,80
+odi,1997,10,9,Zimbabwe,73
+odi,1997,11,1,South Africa,128
+odi,1997,11,2,Sri Lanka,123
+odi,1997,11,3,West Indies,105
+odi,1997,11,4,Australia,100
+odi,1997,11,5,Pakistan,100
+odi,1997,11,6,India,93
+odi,1997,11,7,New Zealand,90
+odi,1997,11,8,Zimbabwe,88
+odi,1997,11,9,England,87
+odi,1997,12,1,South Africa,134
+odi,1997,12,2,Sri Lanka,121
+odi,1997,12,3,West Indies,101
+odi,1997,12,4,Pakistan,100
+odi,1997,12,5,Australia,99
+odi,1997,12,6,India,93
+odi,1997,12,7,New Zealand,90
+odi,1997,12,8,Zimbabwe,88
+odi,1997,12,9,England,87
+odi,1998,1,1,South Africa,132
+odi,1998,1,2,Sri Lanka,119
+odi,1998,1,3,England,102
+odi,1998,1,4,Australia,102
+odi,1998,1,5,West Indies,100
+odi,1998,1,6,Pakistan,99
+odi,1998,1,7,India,91
+odi,1998,1,8,New Zealand,90
+odi,1998,1,9,Zimbabwe,88
+odi,1998,2,1,South Africa,130
+odi,1998,2,2,Sri Lanka,121
+odi,1998,2,3,Australia,104
+odi,1998,2,4,England,102
+odi,1998,2,5,West Indies,100
+odi,1998,2,6,Pakistan,97
+odi,1998,2,7,India,94
+odi,1998,2,8,New Zealand,92
+odi,1998,2,9,Zimbabwe,85
+odi,1998,2,10,Bangladesh,13
+odi,1998,3,1,South Africa,130
+odi,1998,3,2,Sri Lanka,121
+odi,1998,3,3,Australia,103
+odi,1998,3,4,England,102
+odi,1998,3,5,West Indies,100
+odi,1998,3,6,Pakistan,97
+odi,1998,3,7,India,94
+odi,1998,3,8,New Zealand,93
+odi,1998,3,9,Zimbabwe,85
+odi,1998,3,10,Bangladesh,13
+odi,1998,4,1,South Africa,130
+odi,1998,4,2,Sri Lanka,121
+odi,1998,4,3,England,104
+odi,1998,4,4,Australia,101
+odi,1998,4,5,West Indies,99
+odi,1998,4,6,Pakistan,98
+odi,1998,4,7,New Zealand,95
+odi,1998,4,8,India,95
+odi,1998,4,9,Zimbabwe,81
+odi,1998,4,10,Bangladesh,13
+odi,1998,5,1,South Africa,132
+odi,1998,5,2,Sri Lanka,118
+odi,1998,5,3,West Indies,105
+odi,1998,5,4,Australia,105
+odi,1998,5,5,Pakistan,99
+odi,1998,5,6,India,96
+odi,1998,5,7,England,95
+odi,1998,5,8,New Zealand,93
+odi,1998,5,9,Zimbabwe,77
+odi,1998,5,10,Bangladesh,12
+odi,1998,6,1,South Africa,131
+odi,1998,6,2,Sri Lanka,116
+odi,1998,6,3,West Indies,105
+odi,1998,6,4,Australia,105
+odi,1998,6,5,Pakistan,99
+odi,1998,6,6,England,97
+odi,1998,6,7,India,96
+odi,1998,6,8,New Zealand,93
+odi,1998,6,9,Zimbabwe,77
+odi,1998,6,10,Kenya,44
+odi,1998,6,11,Bangladesh,16
+odi,1998,7,1,South Africa,131
+odi,1998,7,2,Sri Lanka,117
+odi,1998,7,3,West Indies,105
+odi,1998,7,4,Australia,105
+odi,1998,7,5,Pakistan,99
+odi,1998,7,6,England,97
+odi,1998,7,7,India,96
+odi,1998,7,8,New Zealand,92
+odi,1998,7,9,Zimbabwe,77
+odi,1998,7,10,Kenya,44
+odi,1998,7,11,Bangladesh,16
+odi,1998,8,1,South Africa,130
+odi,1998,8,2,Sri Lanka,115
+odi,1998,8,3,West Indies,107
+odi,1998,8,4,Australia,104
+odi,1998,8,5,England,102
+odi,1998,8,6,Pakistan,98
+odi,1998,8,7,India,98
+odi,1998,8,8,New Zealand,91
+odi,1998,8,9,Zimbabwe,78
+odi,1998,8,10,Kenya,44
+odi,1998,8,11,Bangladesh,15
+odi,1998,9,1,South Africa,128
+odi,1998,9,2,Sri Lanka,117
+odi,1998,9,3,West Indies,107
+odi,1998,9,4,Australia,104
+odi,1998,9,5,England,103
+odi,1998,9,6,India,100
+odi,1998,9,7,Pakistan,96
+odi,1998,9,8,New Zealand,91
+odi,1998,9,9,Zimbabwe,78
+odi,1998,9,10,Kenya,44
+odi,1998,9,11,Bangladesh,15
+odi,1998,10,1,South Africa,128
+odi,1998,10,2,Sri Lanka,117
+odi,1998,10,3,West Indies,107
+odi,1998,10,4,Australia,104
+odi,1998,10,5,England,103
+odi,1998,10,6,Pakistan,102
+odi,1998,10,7,India,95
+odi,1998,10,8,New Zealand,93
+odi,1998,10,9,Zimbabwe,77
+odi,1998,10,10,Kenya,44
+odi,1998,10,11,Bangladesh,15
+odi,1998,11,1,South Africa,132
+odi,1998,11,2,Sri Lanka,117
+odi,1998,11,3,West Indies,111
+odi,1998,11,4,Australia,101
+odi,1998,11,5,England,101
+odi,1998,11,6,Pakistan,100
+odi,1998,11,7,India,95
+odi,1998,11,8,New Zealand,92
+odi,1998,11,9,Zimbabwe,77
+odi,1998,11,10,Kenya,44
+odi,1998,11,11,Bangladesh,15
+odi,1999,1,1,South Africa,132
+odi,1999,1,2,West Indies,111
+odi,1999,1,3,Sri Lanka,107
+odi,1999,1,4,Australia,106
+odi,1999,1,5,England,101
+odi,1999,1,6,Pakistan,97
+odi,1999,1,7,India,97
+odi,1999,1,8,New Zealand,94
+odi,1999,1,9,Zimbabwe,83
+odi,1999,1,10,Kenya,44
+odi,1999,1,11,Bangladesh,15
+odi,1999,2,1,South Africa,133
+odi,1999,2,2,Australia,109
+odi,1999,2,3,West Indies,108
+odi,1999,2,4,England,107
+odi,1999,2,5,Sri Lanka,102
+odi,1999,2,6,India,98
+odi,1999,2,7,Pakistan,97
+odi,1999,2,8,New Zealand,93
+odi,1999,2,9,Zimbabwe,83
+odi,1999,2,10,Kenya,44
+odi,1999,2,11,Bangladesh,15
+odi,1999,3,1,South Africa,130
+odi,1999,3,2,Australia,113
+odi,1999,3,3,West Indies,106
+odi,1999,3,4,Sri Lanka,102
+odi,1999,3,5,England,100
+odi,1999,3,6,New Zealand,98
+odi,1999,3,7,India,98
+odi,1999,3,8,Pakistan,97
+odi,1999,3,9,Zimbabwe,83
+odi,1999,3,10,Kenya,44
+odi,1999,3,11,Bangladesh,14
+odi,1999,4,1,South Africa,131
+odi,1999,4,2,Australia,113
+odi,1999,4,3,West Indies,106
+odi,1999,4,4,Sri Lanka,100
+odi,1999,4,5,England,100
+odi,1999,4,6,Pakistan,100
+odi,1999,4,7,India,98
+odi,1999,4,8,New Zealand,97
+odi,1999,4,9,Zimbabwe,85
+odi,1999,4,10,Kenya,43
+odi,1999,4,11,Bangladesh,8
+odi,1999,5,1,South Africa,131
+odi,1999,5,2,Australia,112
+odi,1999,5,3,West Indies,108
+odi,1999,5,4,Pakistan,101
+odi,1999,5,5,Sri Lanka,99
+odi,1999,5,6,India,98
+odi,1999,5,7,England,98
+odi,1999,5,8,New Zealand,97
+odi,1999,5,9,Zimbabwe,85
+odi,1999,5,10,Kenya,43
+odi,1999,5,11,Bangladesh,8
+odi,1999,6,1,South Africa,130
+odi,1999,6,2,Australia,111
+odi,1999,6,3,West Indies,106
+odi,1999,6,4,Pakistan,102
+odi,1999,6,5,India,98
+odi,1999,6,6,England,98
+odi,1999,6,7,Sri Lanka,98
+odi,1999,6,8,New Zealand,97
+odi,1999,6,9,Zimbabwe,87
+odi,1999,6,10,Kenya,39
+odi,1999,6,11,Bangladesh,12
+odi,1999,8,1,South Africa,130
+odi,1999,8,2,Australia,119
+odi,1999,8,3,West Indies,105
+odi,1999,8,4,Pakistan,102
+odi,1999,8,5,India,99
+odi,1999,8,6,New Zealand,98
+odi,1999,8,7,England,98
+odi,1999,8,8,Sri Lanka,92
+odi,1999,8,9,Zimbabwe,87
+odi,1999,8,10,Kenya,39
+odi,1999,8,11,Bangladesh,10
+odi,1999,9,1,South Africa,130
+odi,1999,9,2,Australia,120
+odi,1999,9,3,West Indies,107
+odi,1999,9,4,Pakistan,102
+odi,1999,9,5,New Zealand,98
+odi,1999,9,6,England,98
+odi,1999,9,7,India,97
+odi,1999,9,8,Sri Lanka,93
+odi,1999,9,9,Zimbabwe,85
+odi,1999,9,10,Kenya,39
+odi,1999,9,11,Bangladesh,10
+odi,1999,10,1,South Africa,128
+odi,1999,10,2,Australia,120
+odi,1999,10,3,Pakistan,106
+odi,1999,10,4,India,101
+odi,1999,10,5,West Indies,101
+odi,1999,10,6,New Zealand,98
+odi,1999,10,7,England,98
+odi,1999,10,8,Sri Lanka,93
+odi,1999,10,9,Zimbabwe,83
+odi,1999,10,10,Kenya,36
+odi,1999,10,11,Bangladesh,10
+odi,1999,11,1,South Africa,129
+odi,1999,11,2,Australia,121
+odi,1999,11,3,Pakistan,110
+odi,1999,11,4,New Zealand,101
+odi,1999,11,5,India,99
+odi,1999,11,6,West Indies,98
+odi,1999,11,7,England,98
+odi,1999,11,8,Sri Lanka,92
+odi,1999,11,9,Zimbabwe,82
+odi,1999,11,10,Kenya,36
+odi,1999,11,11,Bangladesh,8
+odi,1999,12,1,South Africa,129
+odi,1999,12,2,Australia,121
+odi,1999,12,3,Pakistan,110
+odi,1999,12,4,India,101
+odi,1999,12,5,England,98
+odi,1999,12,6,West Indies,98
+odi,1999,12,7,New Zealand,97
+odi,1999,12,8,Sri Lanka,93
+odi,1999,12,9,Zimbabwe,80
+odi,1999,12,10,Kenya,36
+odi,1999,12,11,Bangladesh,8
+odi,2000,1,1,South Africa,129
+odi,2000,1,2,Australia,121
+odi,2000,1,3,Pakistan,110
+odi,2000,1,4,India,101
+odi,2000,1,5,New Zealand,99
+odi,2000,1,6,England,98
+odi,2000,1,7,West Indies,97
+odi,2000,1,8,Sri Lanka,93
+odi,2000,1,9,Zimbabwe,80
+odi,2000,1,10,Kenya,36
+odi,2000,1,11,Bangladesh,8
+odi,2000,2,1,South Africa,127
+odi,2000,2,2,Australia,125
+odi,2000,2,3,Pakistan,110
+odi,2000,2,4,New Zealand,105
+odi,2000,2,5,England,99
+odi,2000,2,6,India,98
+odi,2000,2,7,Sri Lanka,93
+odi,2000,2,8,West Indies,92
+odi,2000,2,9,Zimbabwe,81
+odi,2000,2,10,Kenya,36
+odi,2000,2,11,Bangladesh,8
+odi,2000,3,1,Australia,128
+odi,2000,3,2,South Africa,126
+odi,2000,3,3,Pakistan,105
+odi,2000,3,4,New Zealand,101
+odi,2000,3,5,England,101
+odi,2000,3,6,Sri Lanka,98
+odi,2000,3,7,India,98
+odi,2000,3,8,West Indies,92
+odi,2000,3,9,Zimbabwe,81
+odi,2000,3,10,Kenya,36
+odi,2000,3,11,Bangladesh,8
+odi,2000,4,1,Australia,127
+odi,2000,4,2,South Africa,121
+odi,2000,4,3,Pakistan,107
+odi,2000,4,4,New Zealand,104
+odi,2000,4,5,England,101
+odi,2000,4,6,India,100
+odi,2000,4,7,Sri Lanka,98
+odi,2000,4,8,West Indies,93
+odi,2000,4,9,Zimbabwe,80
+odi,2000,4,10,Kenya,36
+odi,2000,4,11,Bangladesh,8
+odi,2000,5,1,Australia,125
+odi,2000,5,2,South Africa,122
+odi,2000,5,3,Pakistan,106
+odi,2000,5,4,New Zealand,104
+odi,2000,5,5,England,101
+odi,2000,5,6,India,100
+odi,2000,5,7,Sri Lanka,98
+odi,2000,5,8,West Indies,96
+odi,2000,5,9,Zimbabwe,78
+odi,2000,5,10,Kenya,36
+odi,2000,5,11,Bangladesh,7
+odi,2000,6,1,Australia,125
+odi,2000,6,2,South Africa,122
+odi,2000,6,3,Pakistan,106
+odi,2000,6,4,New Zealand,104
+odi,2000,6,5,England,101
+odi,2000,6,6,India,100
+odi,2000,6,7,Sri Lanka,99
+odi,2000,6,8,West Indies,96
+odi,2000,6,9,Zimbabwe,78
+odi,2000,6,10,Kenya,36
+odi,2000,6,11,Bangladesh,6
+odi,2000,7,1,Australia,125
+odi,2000,7,2,South Africa,122
+odi,2000,7,3,Pakistan,107
+odi,2000,7,4,New Zealand,104
+odi,2000,7,5,England,101
+odi,2000,7,6,Sri Lanka,99
+odi,2000,7,7,India,99
+odi,2000,7,8,West Indies,96
+odi,2000,7,9,Zimbabwe,78
+odi,2000,7,10,Kenya,36
+odi,2000,7,11,Bangladesh,6
+odi,2000,8,1,Australia,129
+odi,2000,8,2,South Africa,116
+odi,2000,8,3,New Zealand,108
+odi,2000,8,4,Pakistan,107
+odi,2000,8,5,Sri Lanka,105
+odi,2000,8,6,England,101
+odi,2000,8,7,India,98
+odi,2000,8,8,West Indies,91
+odi,2000,8,9,Zimbabwe,81
+odi,2000,8,10,Kenya,32
+odi,2000,8,11,Bangladesh,3
+odi,2000,9,1,Australia,128
+odi,2000,9,2,South Africa,118
+odi,2000,9,3,Pakistan,109
+odi,2000,9,4,Sri Lanka,105
+odi,2000,9,5,New Zealand,104
+odi,2000,9,6,England,101
+odi,2000,9,7,India,98
+odi,2000,9,8,West Indies,91
+odi,2000,9,9,Zimbabwe,80
+odi,2000,9,10,Kenya,32
+odi,2000,9,11,Bangladesh,3
+odi,2000,10,1,Australia,128
+odi,2000,10,2,South Africa,118
+odi,2000,10,3,Pakistan,109
+odi,2000,10,4,Sri Lanka,105
+odi,2000,10,5,England,101
+odi,2000,10,6,India,98
+odi,2000,10,7,New Zealand,97
+odi,2000,10,8,West Indies,91
+odi,2000,10,9,Zimbabwe,85
+odi,2000,10,10,Kenya,32
+odi,2000,10,11,Bangladesh,3
+odi,2000,11,1,Australia,125
+odi,2000,11,2,South Africa,120
+odi,2000,11,3,Sri Lanka,110
+odi,2000,11,4,Pakistan,109
+odi,2000,11,5,India,100
+odi,2000,11,6,New Zealand,99
+odi,2000,11,7,England,99
+odi,2000,11,8,West Indies,89
+odi,2000,11,9,Zimbabwe,80
+odi,2000,11,10,Kenya,31
+odi,2000,11,11,Bangladesh,2
+odi,2000,12,1,Australia,125
+odi,2000,12,2,South Africa,121
+odi,2000,12,3,Sri Lanka,110
+odi,2000,12,4,Pakistan,109
+odi,2000,12,5,India,100
+odi,2000,12,6,England,99
+odi,2000,12,7,New Zealand,98
+odi,2000,12,8,West Indies,89
+odi,2000,12,9,Zimbabwe,80
+odi,2000,12,10,Kenya,31
+odi,2000,12,11,Bangladesh,2
+odi,2001,1,1,Australia,125
+odi,2001,1,2,South Africa,123
+odi,2001,1,3,Pakistan,109
+odi,2001,1,4,Sri Lanka,108
+odi,2001,1,5,India,101
+odi,2001,1,6,England,99
+odi,2001,1,7,New Zealand,95
+odi,2001,1,8,West Indies,89
+odi,2001,1,9,Zimbabwe,81
+odi,2001,1,10,Kenya,31
+odi,2001,1,11,Bangladesh,2
+odi,2001,2,1,Australia,128
+odi,2001,2,2,South Africa,124
+odi,2001,2,3,Pakistan,109
+odi,2001,2,4,Sri Lanka,108
+odi,2001,2,5,India,101
+odi,2001,2,6,England,99
+odi,2001,2,7,New Zealand,93
+odi,2001,2,8,West Indies,90
+odi,2001,2,9,Zimbabwe,80
+odi,2001,2,10,Kenya,31
+odi,2001,2,11,Bangladesh,2
+odi,2001,3,1,Australia,128
+odi,2001,3,2,South Africa,124
+odi,2001,3,3,Sri Lanka,110
+odi,2001,3,4,Pakistan,107
+odi,2001,3,5,India,101
+odi,2001,3,6,England,97
+odi,2001,3,7,New Zealand,96
+odi,2001,3,8,West Indies,89
+odi,2001,3,9,Zimbabwe,79
+odi,2001,3,10,Kenya,31
+odi,2001,3,11,Bangladesh,2
+odi,2001,4,1,Australia,126
+odi,2001,4,2,South Africa,124
+odi,2001,4,3,Sri Lanka,111
+odi,2001,4,4,Pakistan,107
+odi,2001,4,5,India,103
+odi,2001,4,6,New Zealand,96
+odi,2001,4,7,England,94
+odi,2001,4,8,West Indies,89
+odi,2001,4,9,Zimbabwe,79
+odi,2001,4,10,Kenya,31
+odi,2001,4,11,Bangladesh,2
+odi,2001,5,1,Australia,127
+odi,2001,5,2,South Africa,122
+odi,2001,5,3,Sri Lanka,110
+odi,2001,5,4,Pakistan,109
+odi,2001,5,5,India,102
+odi,2001,5,6,New Zealand,95
+odi,2001,5,7,England,94
+odi,2001,5,8,West Indies,91
+odi,2001,5,9,Zimbabwe,80
+odi,2001,5,10,Kenya,31
+odi,2001,5,11,Bangladesh,0
+odi,2001,6,1,Australia,127
+odi,2001,6,2,South Africa,122
+odi,2001,6,3,Sri Lanka,110
+odi,2001,6,4,Pakistan,110
+odi,2001,6,5,India,102
+odi,2001,6,6,New Zealand,95
+odi,2001,6,7,England,93
+odi,2001,6,8,West Indies,91
+odi,2001,6,9,Zimbabwe,80
+odi,2001,6,10,Kenya,31
+odi,2001,6,11,Bangladesh,0
+odi,2001,7,1,Australia,128
+odi,2001,7,2,South Africa,122
+odi,2001,7,3,Pakistan,111
+odi,2001,7,4,Sri Lanka,110
+odi,2001,7,5,India,104
+odi,2001,7,6,New Zealand,95
+odi,2001,7,7,West Indies,92
+odi,2001,7,8,England,89
+odi,2001,7,9,Zimbabwe,78
+odi,2001,7,10,Kenya,31
+odi,2001,7,11,Bangladesh,0
+odi,2001,8,1,Australia,128
+odi,2001,8,2,South Africa,122
+odi,2001,8,3,Pakistan,111
+odi,2001,8,4,Sri Lanka,110
+odi,2001,8,5,India,103
+odi,2001,8,6,New Zealand,95
+odi,2001,8,7,West Indies,92
+odi,2001,8,8,England,89
+odi,2001,8,9,Zimbabwe,78
+odi,2001,8,10,Kenya,31
+odi,2001,8,11,Bangladesh,0
+odi,2001,9,1,Australia,128
+odi,2001,9,2,South Africa,122
+odi,2001,9,3,Sri Lanka,116
+odi,2001,9,4,Pakistan,112
+odi,2001,9,5,India,104
+odi,2001,9,6,West Indies,92
+odi,2001,9,7,New Zealand,92
+odi,2001,9,8,England,85
+odi,2001,9,9,Zimbabwe,75
+odi,2001,9,10,Kenya,17
+odi,2001,9,11,Bangladesh,0
+odi,2001,10,1,Australia,128
+odi,2001,10,2,South Africa,123
+odi,2001,10,3,Sri Lanka,116
+odi,2001,10,4,Pakistan,112
+odi,2001,10,5,India,104
+odi,2001,10,6,West Indies,92
+odi,2001,10,7,New Zealand,92
+odi,2001,10,8,England,88
+odi,2001,10,9,Zimbabwe,73
+odi,2001,10,10,Kenya,17
+odi,2001,10,11,Bangladesh,0
+odi,2001,11,1,Australia,128
+odi,2001,11,2,South Africa,124
+odi,2001,11,3,Sri Lanka,116
+odi,2001,11,4,Pakistan,113
+odi,2001,11,5,India,102
+odi,2001,11,6,England,95
+odi,2001,11,7,West Indies,92
+odi,2001,11,8,New Zealand,92
+odi,2001,11,9,Zimbabwe,69
+odi,2001,11,10,Kenya,20
+odi,2001,11,11,Bangladesh,0
+odi,2001,12,1,Australia,128
+odi,2001,12,2,South Africa,124
+odi,2001,12,3,Pakistan,115
+odi,2001,12,4,Sri Lanka,115
+odi,2001,12,5,India,102
+odi,2001,12,6,England,95
+odi,2001,12,7,West Indies,92
+odi,2001,12,8,New Zealand,92
+odi,2001,12,9,Zimbabwe,69
+odi,2001,12,10,Kenya,20
+odi,2001,12,11,Bangladesh,0
+odi,2002,1,1,Australia,125
+odi,2002,1,2,South Africa,124
+odi,2002,1,3,Sri Lanka,115
+odi,2002,1,4,Pakistan,115
+odi,2002,1,5,India,102
+odi,2002,1,6,New Zealand,95
+odi,2002,1,7,England,95
+odi,2002,1,8,West Indies,91
+odi,2002,1,9,Zimbabwe,70
+odi,2002,1,10,Kenya,20
+odi,2002,1,11,Bangladesh,0
+odi,2002,2,1,South Africa,123
+odi,2002,2,2,Australia,122
+odi,2002,2,3,Pakistan,116
+odi,2002,2,4,Sri Lanka,115
+odi,2002,2,5,India,102
+odi,2002,2,6,New Zealand,99
+odi,2002,2,7,England,94
+odi,2002,2,8,West Indies,91
+odi,2002,2,9,Zimbabwe,70
+odi,2002,2,10,Kenya,20
+odi,2002,2,11,Bangladesh,0
+odi,2002,3,1,Australia,124
+odi,2002,3,2,South Africa,123
+odi,2002,3,3,Sri Lanka,115
+odi,2002,3,4,Pakistan,115
+odi,2002,3,5,India,99
+odi,2002,3,6,New Zealand,98
+odi,2002,3,7,England,95
+odi,2002,3,8,West Indies,92
+odi,2002,3,9,Zimbabwe,72
+odi,2002,3,10,Kenya,20
+odi,2002,3,11,Bangladesh,0
+odi,2002,4,1,Australia,129
+odi,2002,4,2,South Africa,119
+odi,2002,4,3,Sri Lanka,115
+odi,2002,4,4,Pakistan,115
+odi,2002,4,5,India,99
+odi,2002,4,6,New Zealand,98
+odi,2002,4,7,England,95
+odi,2002,4,8,West Indies,92
+odi,2002,4,9,Zimbabwe,72
+odi,2002,4,10,Kenya,20
+odi,2002,4,11,Bangladesh,0
+odi,2002,5,1,Australia,128
+odi,2002,5,2,South Africa,120
+odi,2002,5,3,Pakistan,117
+odi,2002,5,4,Sri Lanka,115
+odi,2002,5,5,India,100
+odi,2002,5,6,New Zealand,96
+odi,2002,5,7,England,95
+odi,2002,5,8,West Indies,91
+odi,2002,5,9,Zimbabwe,72
+odi,2002,5,10,Kenya,20
+odi,2002,5,11,Bangladesh,0
+odi,2002,6,1,Australia,128
+odi,2002,6,2,South Africa,120
+odi,2002,6,3,Pakistan,117
+odi,2002,6,4,Sri Lanka,115
+odi,2002,6,5,India,99
+odi,2002,6,6,New Zealand,96
+odi,2002,6,7,England,95
+odi,2002,6,8,West Indies,92
+odi,2002,6,9,Zimbabwe,72
+odi,2002,6,10,Kenya,20
+odi,2002,6,11,Bangladesh,0
+odi,2002,7,1,Australia,126
+odi,2002,7,2,South Africa,120
+odi,2002,7,3,Pakistan,119
+odi,2002,7,4,Sri Lanka,111
+odi,2002,7,5,India,102
+odi,2002,7,6,England,98
+odi,2002,7,7,West Indies,94
+odi,2002,7,8,New Zealand,94
+odi,2002,7,9,Zimbabwe,72
+odi,2002,7,10,Kenya,20
+odi,2002,7,11,Bangladesh,0
+odi,2002,8,1,Australia,125
+odi,2002,8,2,Pakistan,124
+odi,2002,8,3,South Africa,121
+odi,2002,8,4,Sri Lanka,107
+odi,2002,8,5,India,104
+odi,2002,8,6,England,98
+odi,2002,8,7,West Indies,96
+odi,2002,8,8,New Zealand,93
+odi,2002,8,9,Zimbabwe,70
+odi,2002,8,10,Kenya,20
+odi,2002,8,11,Bangladesh,0
+odi,2002,9,1,Australia,127
+odi,2002,9,2,South Africa,119
+odi,2002,9,3,Pakistan,118
+odi,2002,9,4,Sri Lanka,115
+odi,2002,9,5,India,104
+odi,2002,9,6,England,98
+odi,2002,9,7,West Indies,96
+odi,2002,9,8,New Zealand,93
+odi,2002,9,9,Zimbabwe,70
+odi,2002,9,10,Kenya,17
+odi,2002,9,11,Bangladesh,0
+odi,2002,10,1,Australia,128
+odi,2002,10,2,South Africa,120
+odi,2002,10,3,Sri Lanka,117
+odi,2002,10,4,Pakistan,115
+odi,2002,10,5,India,106
+odi,2002,10,6,England,96
+odi,2002,10,7,West Indies,94
+odi,2002,10,8,New Zealand,91
+odi,2002,10,9,Zimbabwe,67
+odi,2002,10,10,Kenya,22
+odi,2002,10,11,Bangladesh,11
+odi,2002,11,1,Australia,128
+odi,2002,11,2,South Africa,123
+odi,2002,11,3,Pakistan,116
+odi,2002,11,4,Sri Lanka,114
+odi,2002,11,5,India,103
+odi,2002,11,6,West Indies,98
+odi,2002,11,7,England,96
+odi,2002,11,8,New Zealand,91
+odi,2002,11,9,Zimbabwe,66
+odi,2002,11,10,Kenya,22
+odi,2002,11,11,Bangladesh,11
+odi,2002,12,1,Australia,131
+odi,2002,12,2,South Africa,126
+odi,2002,12,3,Pakistan,114
+odi,2002,12,4,Sri Lanka,110
+odi,2002,12,5,India,100
+odi,2002,12,6,England,100
+odi,2002,12,7,West Indies,99
+odi,2002,12,8,New Zealand,95
+odi,2002,12,9,Zimbabwe,66
+odi,2002,12,10,Kenya,20
+odi,2002,12,11,Bangladesh,10
+odi,2003,1,1,Australia,132
+odi,2003,1,2,South Africa,126
+odi,2003,1,3,Pakistan,114
+odi,2003,1,4,Sri Lanka,110
+odi,2003,1,5,India,99
+odi,2003,1,6,West Indies,99
+odi,2003,1,7,England,98
+odi,2003,1,8,New Zealand,97
+odi,2003,1,9,Zimbabwe,66
+odi,2003,1,10,Kenya,20
+odi,2003,1,11,Bangladesh,10
+odi,2003,2,1,Australia,134
+odi,2003,2,2,South Africa,123
+odi,2003,2,3,Pakistan,111
+odi,2003,2,4,Sri Lanka,110
+odi,2003,2,5,India,100
+odi,2003,2,6,New Zealand,99
+odi,2003,2,7,West Indies,99
+odi,2003,2,8,England,99
+odi,2003,2,9,Zimbabwe,66
+odi,2003,2,10,Kenya,25
+odi,2003,2,11,Bangladesh,8
+odi,2003,3,1,Australia,136
+odi,2003,3,2,South Africa,123
+odi,2003,3,3,Pakistan,110
+odi,2003,3,4,Sri Lanka,108
+odi,2003,3,5,India,103
+odi,2003,3,6,West Indies,99
+odi,2003,3,7,New Zealand,98
+odi,2003,3,8,England,98
+odi,2003,3,9,Zimbabwe,63
+odi,2003,3,10,Kenya,30
+odi,2003,3,11,Bangladesh,6
+odi,2003,4,1,Australia,136
+odi,2003,4,2,South Africa,122
+odi,2003,4,3,Pakistan,112
+odi,2003,4,4,Sri Lanka,106
+odi,2003,4,5,India,104
+odi,2003,4,6,West Indies,99
+odi,2003,4,7,New Zealand,98
+odi,2003,4,8,England,98
+odi,2003,4,9,Zimbabwe,65
+odi,2003,4,10,Kenya,28
+odi,2003,4,11,Bangladesh,4
+odi,2003,5,1,Australia,134
+odi,2003,5,2,South Africa,122
+odi,2003,5,3,Pakistan,110
+odi,2003,5,4,Sri Lanka,106
+odi,2003,5,5,India,104
+odi,2003,5,6,West Indies,102
+odi,2003,5,7,New Zealand,101
+odi,2003,5,8,England,98
+odi,2003,5,9,Zimbabwe,65
+odi,2003,5,10,Kenya,28
+odi,2003,5,11,Bangladesh,4
+odi,2003,6,1,Australia,132
+odi,2003,6,2,South Africa,121
+odi,2003,6,3,Pakistan,108
+odi,2003,6,4,Sri Lanka,106
+odi,2003,6,5,India,104
+odi,2003,6,6,West Indies,103
+odi,2003,6,7,New Zealand,101
+odi,2003,6,8,England,100
+odi,2003,6,9,Zimbabwe,66
+odi,2003,6,10,Kenya,28
+odi,2003,6,11,Bangladesh,4
+odi,2003,7,1,Australia,132
+odi,2003,7,2,South Africa,120
+odi,2003,7,3,Pakistan,108
+odi,2003,7,4,Sri Lanka,106
+odi,2003,7,5,India,104
+odi,2003,7,6,West Indies,103
+odi,2003,7,7,England,103
+odi,2003,7,8,New Zealand,101
+odi,2003,7,9,Zimbabwe,66
+odi,2003,7,10,Kenya,28
+odi,2003,7,11,Bangladesh,4
+odi,2003,8,1,Australia,135
+odi,2003,8,2,South Africa,118
+odi,2003,8,3,England,107
+odi,2003,8,4,West Indies,106
+odi,2003,8,5,New Zealand,106
+odi,2003,8,6,Sri Lanka,105
+odi,2003,8,7,Pakistan,105
+odi,2003,8,8,India,104
+odi,2003,8,9,Zimbabwe,63
+odi,2003,8,10,Kenya,28
+odi,2003,8,11,Bangladesh,1
+odi,2003,9,1,Australia,135
+odi,2003,9,2,South Africa,118
+odi,2003,9,3,England,107
+odi,2003,9,4,Pakistan,106
+odi,2003,9,5,West Indies,106
+odi,2003,9,6,New Zealand,106
+odi,2003,9,7,Sri Lanka,105
+odi,2003,9,8,India,104
+odi,2003,9,9,Zimbabwe,63
+odi,2003,9,10,Kenya,28
+odi,2003,9,11,Bangladesh,0
+odi,2003,10,1,Australia,133
+odi,2003,10,2,South Africa,118
+odi,2003,10,3,England,107
+odi,2003,10,4,India,107
+odi,2003,10,5,Pakistan,107
+odi,2003,10,6,West Indies,106
+odi,2003,10,7,Sri Lanka,105
+odi,2003,10,8,New Zealand,105
+odi,2003,10,9,Zimbabwe,63
+odi,2003,10,10,Kenya,28
+odi,2003,10,11,Bangladesh,0
+odi,2003,11,1,Australia,136
+odi,2003,11,2,South Africa,118
+odi,2003,11,3,Pakistan,108
+odi,2003,11,4,Sri Lanka,107
+odi,2003,11,5,England,106
+odi,2003,11,6,India,105
+odi,2003,11,7,New Zealand,102
+odi,2003,11,8,West Indies,101
+odi,2003,11,9,Zimbabwe,68
+odi,2003,11,10,Kenya,28
+odi,2003,11,11,Bangladesh,0
+odi,2003,12,1,Australia,136
+odi,2003,12,2,South Africa,118
+odi,2003,12,3,Pakistan,111
+odi,2003,12,4,Sri Lanka,107
+odi,2003,12,5,England,106
+odi,2003,12,6,India,105
+odi,2003,12,7,West Indies,101
+odi,2003,12,8,New Zealand,97
+odi,2003,12,9,Zimbabwe,68
+odi,2003,12,10,Kenya,28
+odi,2003,12,11,Bangladesh,0
+odi,2004,1,1,Australia,136
+odi,2004,1,2,South Africa,120
+odi,2004,1,3,Pakistan,107
+odi,2004,1,4,Sri Lanka,107
+odi,2004,1,5,India,107
+odi,2004,1,6,England,106
+odi,2004,1,7,New Zealand,102
+odi,2004,1,8,West Indies,99
+odi,2004,1,9,Zimbabwe,66
+odi,2004,1,10,Kenya,28
+odi,2004,1,11,Bangladesh,0
+odi,2004,2,1,Australia,135
+odi,2004,2,2,South Africa,114
+odi,2004,2,3,Sri Lanka,109
+odi,2004,2,4,New Zealand,108
+odi,2004,2,5,Pakistan,107
+odi,2004,2,6,England,106
+odi,2004,2,7,India,105
+odi,2004,2,8,West Indies,100
+odi,2004,2,9,Zimbabwe,66
+odi,2004,2,10,Kenya,28
+odi,2004,2,11,Bangladesh,0
+odi,2004,3,1,Australia,135
+odi,2004,3,2,South Africa,113
+odi,2004,3,3,Sri Lanka,109
+odi,2004,3,4,New Zealand,109
+odi,2004,3,5,India,107
+odi,2004,3,6,Pakistan,106
+odi,2004,3,7,England,106
+odi,2004,3,8,West Indies,100
+odi,2004,3,9,Zimbabwe,64
+odi,2004,3,10,Kenya,28
+odi,2004,3,11,Bangladesh,3
+odi,2004,4,1,Australia,135
+odi,2004,4,2,South Africa,113
+odi,2004,4,3,Sri Lanka,110
+odi,2004,4,4,New Zealand,109
+odi,2004,4,5,England,108
+odi,2004,4,6,India,107
+odi,2004,4,7,Pakistan,106
+odi,2004,4,8,West Indies,99
+odi,2004,4,9,Zimbabwe,63
+odi,2004,4,10,Kenya,28
+odi,2004,4,11,Bangladesh,3
+odi,2004,5,1,Australia,136
+odi,2004,5,2,South Africa,113
+odi,2004,5,3,Sri Lanka,110
+odi,2004,5,4,New Zealand,109
+odi,2004,5,5,India,107
+odi,2004,5,6,Pakistan,106
+odi,2004,5,7,England,105
+odi,2004,5,8,West Indies,102
+odi,2004,5,9,Zimbabwe,62
+odi,2004,5,10,Kenya,28
+odi,2004,5,11,Bangladesh,2
+odi,2004,6,1,Australia,136
+odi,2004,6,2,South Africa,113
+odi,2004,6,3,Sri Lanka,110
+odi,2004,6,4,New Zealand,110
+odi,2004,6,5,India,107
+odi,2004,6,6,Pakistan,106
+odi,2004,6,7,West Indies,103
+odi,2004,6,8,England,102
+odi,2004,6,9,Zimbabwe,62
+odi,2004,6,10,Kenya,28
+odi,2004,6,11,Bangladesh,2
+odi,2004,7,1,Australia,136
+odi,2004,7,2,South Africa,113
+odi,2004,7,3,New Zealand,113
+odi,2004,7,4,Sri Lanka,112
+odi,2004,7,5,Pakistan,107
+odi,2004,7,6,India,105
+odi,2004,7,7,England,101
+odi,2004,7,8,West Indies,101
+odi,2004,7,9,Zimbabwe,62
+odi,2004,7,10,Kenya,28
+odi,2004,7,11,Bangladesh,1
+odi,2004,8,1,Australia,136
+odi,2004,8,2,Sri Lanka,123
+odi,2004,8,3,New Zealand,117
+odi,2004,8,4,Pakistan,105
+odi,2004,8,5,India,105
+odi,2004,8,6,South Africa,102
+odi,2004,8,7,West Indies,101
+odi,2004,8,8,England,99
+odi,2004,8,9,Zimbabwe,61
+odi,2004,8,10,Kenya,28
+odi,2004,8,11,Bangladesh,0
+odi,2004,9,1,Australia,137
+odi,2004,9,2,Sri Lanka,121
+odi,2004,9,3,New Zealand,116
+odi,2004,9,4,West Indies,107
+odi,2004,9,5,England,107
+odi,2004,9,6,Pakistan,105
+odi,2004,9,7,India,102
+odi,2004,9,8,South Africa,101
+odi,2004,9,9,Zimbabwe,61
+odi,2004,9,10,Kenya,26
+odi,2004,9,11,Bangladesh,0
+odi,2004,10,1,Australia,137
+odi,2004,10,2,Sri Lanka,121
+odi,2004,10,3,New Zealand,116
+odi,2004,10,4,West Indies,107
+odi,2004,10,5,England,107
+odi,2004,10,6,Pakistan,105
+odi,2004,10,7,India,102
+odi,2004,10,8,South Africa,101
+odi,2004,10,9,Zimbabwe,61
+odi,2004,10,10,Kenya,26
+odi,2004,10,11,Bangladesh,0
+odi,2004,11,1,Australia,137
+odi,2004,11,2,Sri Lanka,119
+odi,2004,11,3,New Zealand,117
+odi,2004,11,4,Pakistan,109
+odi,2004,11,5,England,108
+odi,2004,11,6,West Indies,107
+odi,2004,11,7,South Africa,101
+odi,2004,11,8,India,100
+odi,2004,11,9,Zimbabwe,59
+odi,2004,11,10,Kenya,26
+odi,2004,11,11,Bangladesh,0
+odi,2004,12,1,Australia,136
+odi,2004,12,2,New Zealand,120
+odi,2004,12,3,Sri Lanka,117
+odi,2004,12,4,England,109
+odi,2004,12,5,Pakistan,109
+odi,2004,12,6,West Indies,107
+odi,2004,12,7,South Africa,101
+odi,2004,12,8,India,98
+odi,2004,12,9,Zimbabwe,58
+odi,2004,12,10,Kenya,26
+odi,2004,12,11,Bangladesh,3
+odi,2005,1,1,Australia,136
+odi,2005,1,2,New Zealand,120
+odi,2005,1,3,Sri Lanka,117
+odi,2005,1,4,England,110
+odi,2005,1,5,Pakistan,109
+odi,2005,1,6,West Indies,106
+odi,2005,1,7,South Africa,100
+odi,2005,1,8,India,98
+odi,2005,1,9,Zimbabwe,51
+odi,2005,1,10,Kenya,26
+odi,2005,1,11,Bangladesh,11
+odi,2005,2,1,Australia,139
+odi,2005,2,2,Sri Lanka,117
+odi,2005,2,3,New Zealand,117
+odi,2005,2,4,Pakistan,109
+odi,2005,2,5,South Africa,107
+odi,2005,2,6,West Indies,105
+odi,2005,2,7,England,103
+odi,2005,2,8,India,98
+odi,2005,2,9,Zimbabwe,51
+odi,2005,2,10,Kenya,26
+odi,2005,2,11,Bangladesh,11
+odi,2005,3,1,Australia,140
+odi,2005,3,2,Sri Lanka,117
+odi,2005,3,3,New Zealand,116
+odi,2005,3,4,Pakistan,109
+odi,2005,3,5,South Africa,107
+odi,2005,3,6,West Indies,105
+odi,2005,3,7,England,103
+odi,2005,3,8,India,98
+odi,2005,3,9,Zimbabwe,50
+odi,2005,3,10,Kenya,26
+odi,2005,3,11,Bangladesh,11
+odi,2005,4,1,Australia,140
+odi,2005,4,2,Sri Lanka,117
+odi,2005,4,3,New Zealand,116
+odi,2005,4,4,Pakistan,110
+odi,2005,4,5,South Africa,107
+odi,2005,4,6,West Indies,105
+odi,2005,4,7,England,103
+odi,2005,4,8,India,97
+odi,2005,4,9,Zimbabwe,50
+odi,2005,4,10,Kenya,26
+odi,2005,4,11,Bangladesh,11
+odi,2005,5,1,Australia,140
+odi,2005,5,2,Sri Lanka,117
+odi,2005,5,3,New Zealand,116
+odi,2005,5,4,South Africa,112
+odi,2005,5,5,Pakistan,112
+odi,2005,5,6,England,103
+odi,2005,5,7,India,97
+odi,2005,5,8,West Indies,95
+odi,2005,5,9,Zimbabwe,50
+odi,2005,5,10,Kenya,26
+odi,2005,5,11,Bangladesh,11
+odi,2005,6,1,Australia,137
+odi,2005,6,2,Sri Lanka,117
+odi,2005,6,3,New Zealand,116
+odi,2005,6,4,South Africa,112
+odi,2005,6,5,Pakistan,112
+odi,2005,6,6,England,106
+odi,2005,6,7,India,97
+odi,2005,6,8,West Indies,95
+odi,2005,6,9,Zimbabwe,50
+odi,2005,6,10,Kenya,26
+odi,2005,6,11,Bangladesh,12
+odi,2005,7,1,Australia,136
+odi,2005,7,2,Sri Lanka,117
+odi,2005,7,3,New Zealand,116
+odi,2005,7,4,South Africa,112
+odi,2005,7,5,Pakistan,112
+odi,2005,7,6,England,108
+odi,2005,7,7,India,97
+odi,2005,7,8,West Indies,95
+odi,2005,7,9,Zimbabwe,50
+odi,2005,7,10,Kenya,26
+odi,2005,7,11,Bangladesh,12
+odi,2005,8,1,Australia,136
+odi,2005,8,2,Sri Lanka,122
+odi,2005,8,3,New Zealand,118
+odi,2005,8,4,Pakistan,116
+odi,2005,8,5,South Africa,111
+odi,2005,8,6,England,109
+odi,2005,8,7,India,95
+odi,2005,8,8,West Indies,90
+odi,2005,8,9,Zimbabwe,44
+odi,2005,8,10,Bangladesh,15
+odi,2005,9,1,Australia,136
+odi,2005,9,2,Sri Lanka,123
+odi,2005,9,3,New Zealand,116
+odi,2005,9,4,Pakistan,116
+odi,2005,9,5,South Africa,111
+odi,2005,9,6,England,109
+odi,2005,9,7,India,97
+odi,2005,9,8,West Indies,90
+odi,2005,9,9,Zimbabwe,44
+odi,2005,9,10,Bangladesh,14
+odi,2005,10,1,Australia,136
+odi,2005,10,2,South Africa,119
+odi,2005,10,3,Pakistan,116
+odi,2005,10,4,Sri Lanka,113
+odi,2005,10,5,New Zealand,110
+odi,2005,10,6,England,109
+odi,2005,10,7,India,104
+odi,2005,10,8,West Indies,90
+odi,2005,10,9,Zimbabwe,44
+odi,2005,10,10,Bangladesh,14
+odi,2005,11,1,Australia,136
+odi,2005,11,2,South Africa,118
+odi,2005,11,3,Pakistan,116
+odi,2005,11,4,India,109
+odi,2005,11,5,Sri Lanka,109
+odi,2005,11,6,England,109
+odi,2005,11,7,New Zealand,108
+odi,2005,11,8,West Indies,90
+odi,2005,11,9,Zimbabwe,44
+odi,2005,11,10,Bangladesh,14
+odi,2005,12,1,Australia,135
+odi,2005,12,2,South Africa,118
+odi,2005,12,3,Pakistan,116
+odi,2005,12,4,New Zealand,111
+odi,2005,12,5,India,109
+odi,2005,12,6,England,108
+odi,2005,12,7,Sri Lanka,107
+odi,2005,12,8,West Indies,90
+odi,2005,12,9,Zimbabwe,44
+odi,2005,12,10,Bangladesh,14
+odi,2006,1,1,Australia,134
+odi,2006,1,2,South Africa,120
+odi,2006,1,3,Pakistan,116
+odi,2006,1,4,New Zealand,112
+odi,2006,1,5,India,109
+odi,2006,1,6,England,108
+odi,2006,1,7,Sri Lanka,106
+odi,2006,1,8,West Indies,90
+odi,2006,1,9,Zimbabwe,44
+odi,2006,2,1,Australia,133
+odi,2006,2,2,South Africa,118
+odi,2006,2,3,New Zealand,114
+odi,2006,2,4,India,113
+odi,2006,2,5,Pakistan,112
+odi,2006,2,6,England,108
+odi,2006,2,7,Sri Lanka,107
+odi,2006,2,8,West Indies,87
+odi,2006,2,9,Zimbabwe,41
+odi,2006,3,1,Australia,132
+odi,2006,3,2,South Africa,119
+odi,2006,3,3,India,115
+odi,2006,3,4,Pakistan,114
+odi,2006,3,5,New Zealand,113
+odi,2006,3,6,England,105
+odi,2006,3,7,Sri Lanka,105
+odi,2006,3,8,West Indies,89
+odi,2006,3,9,Zimbabwe,42
+odi,2006,3,10,Bangladesh,24
+odi,2006,5,1,Australia,132
+odi,2006,5,2,South Africa,119
+odi,2006,5,3,Pakistan,114
+odi,2006,5,4,New Zealand,113
+odi,2006,5,5,India,111
+odi,2006,5,6,Sri Lanka,105
+odi,2006,5,7,England,103
+odi,2006,5,8,West Indies,98
+odi,2006,5,9,Zimbabwe,40
+odi,2006,5,10,Bangladesh,23
+odi,2006,6,1,Australia,132
+odi,2006,6,2,South Africa,119
+odi,2006,6,3,Pakistan,114
+odi,2006,6,4,New Zealand,113
+odi,2006,6,5,India,111
+odi,2006,6,6,Sri Lanka,108
+odi,2006,6,7,England,98
+odi,2006,6,8,West Indies,98
+odi,2006,6,9,Zimbabwe,40
+odi,2006,6,10,Bangladesh,23
+odi,2006,7,1,Australia,131
+odi,2006,7,2,South Africa,123
+odi,2006,7,3,Pakistan,115
+odi,2006,7,4,India,113
+odi,2006,7,5,New Zealand,111
+odi,2006,7,6,Sri Lanka,107
+odi,2006,7,7,West Indies,99
+odi,2006,7,8,England,96
+odi,2006,7,9,Zimbabwe,33
+odi,2006,7,10,Bangladesh,31
+odi,2006,8,1,Australia,131
+odi,2006,8,2,South Africa,123
+odi,2006,8,3,Pakistan,115
+odi,2006,8,4,India,113
+odi,2006,8,5,New Zealand,111
+odi,2006,8,6,Sri Lanka,107
+odi,2006,8,7,West Indies,99
+odi,2006,8,8,England,96
+odi,2006,8,9,Zimbabwe,35
+odi,2006,8,10,Bangladesh,33
+odi,2006,9,1,Australia,131
+odi,2006,9,2,South Africa,124
+odi,2006,9,3,Pakistan,111
+odi,2006,9,4,New Zealand,111
+odi,2006,9,5,India,111
+odi,2006,9,6,Sri Lanka,107
+odi,2006,9,7,West Indies,102
+odi,2006,9,8,England,99
+odi,2006,9,9,Zimbabwe,33
+odi,2006,9,10,Bangladesh,33
+odi,2006,10,1,Australia,129
+odi,2006,10,2,South Africa,124
+odi,2006,10,3,New Zealand,114
+odi,2006,10,4,Pakistan,110
+odi,2006,10,5,India,110
+odi,2006,10,6,Sri Lanka,108
+odi,2006,10,7,West Indies,104
+odi,2006,10,8,England,99
+odi,2006,10,9,Bangladesh,34
+odi,2006,10,10,Zimbabwe,30
+odi,2006,11,1,Australia,131
+odi,2006,11,2,South Africa,125
+odi,2006,11,3,New Zealand,113
+odi,2006,11,4,Pakistan,110
+odi,2006,11,5,Sri Lanka,108
+odi,2006,11,6,India,107
+odi,2006,11,7,West Indies,106
+odi,2006,11,8,England,99
+odi,2006,11,9,Bangladesh,35
+odi,2006,11,10,Zimbabwe,29
+odi,2006,12,1,Australia,131
+odi,2006,12,2,South Africa,126
+odi,2006,12,3,Pakistan,112
+odi,2006,12,4,New Zealand,112
+odi,2006,12,5,Sri Lanka,109
+odi,2006,12,6,India,106
+odi,2006,12,7,West Indies,104
+odi,2006,12,8,England,99
+odi,2006,12,9,Bangladesh,41
+odi,2006,12,10,Zimbabwe,23
+odi,2007,1,1,Australia,135
+odi,2007,1,2,South Africa,126
+odi,2007,1,3,Pakistan,112
+odi,2007,1,4,New Zealand,110
+odi,2007,1,5,Sri Lanka,109
+odi,2007,1,6,India,108
+odi,2007,1,7,West Indies,101
+odi,2007,1,8,England,97
+odi,2007,1,9,Bangladesh,41
+odi,2007,1,10,Zimbabwe,23
+odi,2007,2,1,South Africa,128
+odi,2007,2,2,Australia,125
+odi,2007,2,3,New Zealand,113
+odi,2007,2,4,Pakistan,111
+odi,2007,2,5,India,109
+odi,2007,2,6,Sri Lanka,108
+odi,2007,2,7,England,106
+odi,2007,2,8,West Indies,101
+odi,2007,2,9,Bangladesh,42
+odi,2007,2,10,Zimbabwe,22
+odi,2007,3,1,Australia,127
+odi,2007,3,2,South Africa,127
+odi,2007,3,3,New Zealand,114
+odi,2007,3,4,Pakistan,110
+odi,2007,3,5,Sri Lanka,108
+odi,2007,3,6,India,106
+odi,2007,3,7,England,105
+odi,2007,3,8,West Indies,103
+odi,2007,3,9,Bangladesh,44
+odi,2007,3,10,Zimbabwe,22
+odi,2007,4,1,Australia,130
+odi,2007,4,2,South Africa,124
+odi,2007,4,3,New Zealand,113
+odi,2007,4,4,Sri Lanka,111
+odi,2007,4,5,Pakistan,110
+odi,2007,4,6,India,106
+odi,2007,4,7,England,104
+odi,2007,4,8,West Indies,99
+odi,2007,4,9,Bangladesh,45
+odi,2007,4,10,Ireland,29
+odi,2007,4,11,Zimbabwe,22
+odi,2007,5,1,Australia,130
+odi,2007,5,2,South Africa,124
+odi,2007,5,3,New Zealand,113
+odi,2007,5,4,Pakistan,111
+odi,2007,5,5,Sri Lanka,110
+odi,2007,5,6,India,107
+odi,2007,5,7,England,104
+odi,2007,5,8,West Indies,99
+odi,2007,5,9,Bangladesh,45
+odi,2007,5,10,Ireland,29
+odi,2007,5,11,Zimbabwe,22
+odi,2007,6,1,Australia,130
+odi,2007,6,2,South Africa,123
+odi,2007,6,3,New Zealand,113
+odi,2007,6,4,Pakistan,111
+odi,2007,6,5,Sri Lanka,110
+odi,2007,6,6,India,108
+odi,2007,6,7,England,104
+odi,2007,6,8,West Indies,99
+odi,2007,6,9,Bangladesh,45
+odi,2007,6,10,Ireland,27
+odi,2007,6,11,Zimbabwe,22
+odi,2007,7,1,Australia,130
+odi,2007,7,2,South Africa,122
+odi,2007,7,3,New Zealand,113
+odi,2007,7,4,Pakistan,111
+odi,2007,7,5,Sri Lanka,111
+odi,2007,7,6,India,109
+odi,2007,7,7,England,102
+odi,2007,7,8,West Indies,101
+odi,2007,7,9,Bangladesh,44
+odi,2007,7,10,Ireland,27
+odi,2007,7,11,Zimbabwe,22
+odi,2007,8,1,Australia,129
+odi,2007,8,2,South Africa,124
+odi,2007,8,3,New Zealand,114
+odi,2007,8,4,Sri Lanka,111
+odi,2007,8,5,Pakistan,108
+odi,2007,8,6,India,107
+odi,2007,8,7,England,106
+odi,2007,8,8,West Indies,102
+odi,2007,8,9,Bangladesh,48
+odi,2007,8,10,Ireland,28
+odi,2007,8,11,Zimbabwe,17
+odi,2007,9,1,Australia,129
+odi,2007,9,2,South Africa,124
+odi,2007,9,3,New Zealand,114
+odi,2007,9,4,Sri Lanka,111
+odi,2007,9,5,Pakistan,108
+odi,2007,9,6,India,108
+odi,2007,9,7,England,105
+odi,2007,9,8,West Indies,102
+odi,2007,9,9,Bangladesh,48
+odi,2007,9,10,Ireland,28
+odi,2007,9,11,Zimbabwe,17
+odi,2007,10,1,Australia,128
+odi,2007,10,2,South Africa,123
+odi,2007,10,3,New Zealand,114
+odi,2007,10,4,Pakistan,109
+odi,2007,10,5,India,109
+odi,2007,10,6,Sri Lanka,108
+odi,2007,10,7,England,107
+odi,2007,10,8,West Indies,102
+odi,2007,10,9,Bangladesh,48
+odi,2007,10,10,Ireland,28
+odi,2007,10,11,Zimbabwe,17
+odi,2007,11,1,Australia,128
+odi,2007,11,2,South Africa,124
+odi,2007,11,3,New Zealand,112
+odi,2007,11,4,Pakistan,110
+odi,2007,11,5,India,108
+odi,2007,11,6,Sri Lanka,107
+odi,2007,11,7,England,107
+odi,2007,11,8,West Indies,99
+odi,2007,11,9,Bangladesh,48
+odi,2007,11,10,Ireland,28
+odi,2007,11,11,Zimbabwe,21
+odi,2007,12,1,Australia,130
+odi,2007,12,2,South Africa,124
+odi,2007,12,3,New Zealand,112
+odi,2007,12,4,India,110
+odi,2007,12,5,Sri Lanka,108
+odi,2007,12,6,Pakistan,107
+odi,2007,12,7,England,107
+odi,2007,12,8,West Indies,100
+odi,2007,12,9,Bangladesh,47
+odi,2007,12,10,Ireland,28
+odi,2007,12,11,Zimbabwe,20
+odi,2008,1,1,Australia,130
+odi,2008,1,2,South Africa,126
+odi,2008,1,3,New Zealand,112
+odi,2008,1,4,India,110
+odi,2008,1,5,Pakistan,109
+odi,2008,1,6,Sri Lanka,108
+odi,2008,1,7,England,107
+odi,2008,1,8,West Indies,98
+odi,2008,1,9,Bangladesh,47
+odi,2008,1,10,Ireland,28
+odi,2008,1,11,Zimbabwe,18
+odi,2008,2,1,Australia,130
+odi,2008,2,2,South Africa,127
+odi,2008,2,3,New Zealand,113
+odi,2008,2,4,India,111
+odi,2008,2,5,Pakistan,109
+odi,2008,2,6,Sri Lanka,107
+odi,2008,2,7,England,105
+odi,2008,2,8,West Indies,96
+odi,2008,2,9,Bangladesh,47
+odi,2008,2,10,Ireland,28
+odi,2008,2,11,Zimbabwe,18
+odi,2008,3,1,South Africa,127
+odi,2008,3,2,Australia,127
+odi,2008,3,3,New Zealand,113
+odi,2008,3,4,India,113
+odi,2008,3,5,Pakistan,109
+odi,2008,3,6,Sri Lanka,107
+odi,2008,3,7,England,105
+odi,2008,3,8,West Indies,96
+odi,2008,3,9,Bangladesh,48
+odi,2008,3,10,Ireland,20
+odi,2008,3,11,Zimbabwe,18
+odi,2008,4,1,South Africa,127
+odi,2008,4,2,Australia,127
+odi,2008,4,3,New Zealand,113
+odi,2008,4,4,India,113
+odi,2008,4,5,Pakistan,110
+odi,2008,4,6,England,105
+odi,2008,4,7,Sri Lanka,105
+odi,2008,4,8,West Indies,99
+odi,2008,4,9,Bangladesh,47
+odi,2008,4,10,Ireland,20
+odi,2008,4,11,Zimbabwe,18
+odi,2008,6,1,Australia,129
+odi,2008,6,2,South Africa,127
+odi,2008,6,3,New Zealand,115
+odi,2008,6,4,India,114
+odi,2008,6,5,Pakistan,108
+odi,2008,6,6,Sri Lanka,106
+odi,2008,6,7,England,103
+odi,2008,6,8,West Indies,98
+odi,2008,6,9,Bangladesh,46
+odi,2008,6,10,Ireland,20
+odi,2008,6,11,Zimbabwe,18
+odi,2008,7,1,Australia,129
+odi,2008,7,2,South Africa,127
+odi,2008,7,3,New Zealand,115
+odi,2008,7,4,India,113
+odi,2008,7,5,Pakistan,110
+odi,2008,7,6,Sri Lanka,106
+odi,2008,7,7,England,103
+odi,2008,7,8,West Indies,97
+odi,2008,7,9,Bangladesh,45
+odi,2008,7,10,Ireland,19
+odi,2008,7,11,Zimbabwe,18
+odi,2008,8,1,Australia,130
+odi,2008,8,2,South Africa,118
+odi,2008,8,3,England,116
+odi,2008,8,4,New Zealand,116
+odi,2008,8,5,India,113
+odi,2008,8,6,Pakistan,110
+odi,2008,8,7,Sri Lanka,105
+odi,2008,8,8,West Indies,95
+odi,2008,8,9,Bangladesh,46
+odi,2008,8,10,Ireland,22
+odi,2008,8,11,Zimbabwe,16
+odi,2008,9,1,Australia,131
+odi,2008,9,2,South Africa,118
+odi,2008,9,3,England,116
+odi,2008,9,4,New Zealand,116
+odi,2008,9,5,India,113
+odi,2008,9,6,Pakistan,110
+odi,2008,9,7,Sri Lanka,105
+odi,2008,9,8,West Indies,95
+odi,2008,9,9,Bangladesh,45
+odi,2008,9,10,Ireland,22
+odi,2008,9,11,Zimbabwe,16
+odi,2008,10,1,Australia,131
+odi,2008,10,2,South Africa,118
+odi,2008,10,3,England,116
+odi,2008,10,4,New Zealand,113
+odi,2008,10,5,India,113
+odi,2008,10,6,Pakistan,110
+odi,2008,10,7,Sri Lanka,105
+odi,2008,10,8,West Indies,95
+odi,2008,10,9,Bangladesh,47
+odi,2008,10,10,Ireland,19
+odi,2008,10,11,Zimbabwe,15
+odi,2008,11,1,Australia,131
+odi,2008,11,2,South Africa,119
+odi,2008,11,3,India,119
+odi,2008,11,4,Pakistan,114
+odi,2008,11,5,New Zealand,113
+odi,2008,11,6,England,108
+odi,2008,11,7,Sri Lanka,107
+odi,2008,11,8,West Indies,91
+odi,2008,11,9,Bangladesh,47
+odi,2008,11,10,Ireland,19
+odi,2008,11,11,Zimbabwe,13
+odi,2009,1,1,South Africa,125
+odi,2009,1,2,Australia,125
+odi,2009,1,3,India,120
+odi,2009,1,4,New Zealand,113
+odi,2009,1,5,Pakistan,111
+odi,2009,1,6,England,108
+odi,2009,1,7,Sri Lanka,105
+odi,2009,1,8,West Indies,91
+odi,2009,1,9,Bangladesh,46
+odi,2009,1,10,Zimbabwe,21
+odi,2009,1,11,Ireland,19
+odi,2009,1,12,Kenya,0
+odi,2009,2,1,South Africa,125
+odi,2009,2,2,Australia,124
+odi,2009,2,3,India,120
+odi,2009,2,4,New Zealand,114
+odi,2009,2,5,Pakistan,111
+odi,2009,2,6,England,108
+odi,2009,2,7,Sri Lanka,105
+odi,2009,2,8,West Indies,91
+odi,2009,2,9,Bangladesh,46
+odi,2009,2,10,Zimbabwe,23
+odi,2009,2,11,Ireland,19
+odi,2009,2,12,Kenya,0
+odi,2009,3,1,South Africa,125
+odi,2009,3,2,Australia,124
+odi,2009,3,3,India,122
+odi,2009,3,4,New Zealand,112
+odi,2009,3,5,Pakistan,111
+odi,2009,3,6,England,107
+odi,2009,3,7,Sri Lanka,105
+odi,2009,3,8,West Indies,93
+odi,2009,3,9,Bangladesh,46
+odi,2009,3,10,Zimbabwe,23
+odi,2009,3,11,Ireland,19
+odi,2009,3,12,Kenya,0
+odi,2009,4,1,South Africa,126
+odi,2009,4,2,Australia,123
+odi,2009,4,3,India,122
+odi,2009,4,4,New Zealand,112
+odi,2009,4,5,Pakistan,111
+odi,2009,4,6,England,108
+odi,2009,4,7,Sri Lanka,105
+odi,2009,4,8,West Indies,92
+odi,2009,4,9,Bangladesh,46
+odi,2009,4,10,Zimbabwe,23
+odi,2009,4,11,Ireland,19
+odi,2009,4,12,Kenya,0
+odi,2009,5,1,South Africa,126
+odi,2009,5,2,Australia,122
+odi,2009,5,3,India,122
+odi,2009,5,4,New Zealand,112
+odi,2009,5,5,Pakistan,111
+odi,2009,5,6,England,109
+odi,2009,5,7,Sri Lanka,105
+odi,2009,5,8,West Indies,90
+odi,2009,5,9,Bangladesh,46
+odi,2009,5,10,Zimbabwe,23
+odi,2009,5,11,Ireland,19
+odi,2009,5,12,Kenya,0
+odi,2009,7,1,South Africa,127
+odi,2009,7,2,India,126
+odi,2009,7,3,Australia,119
+odi,2009,7,4,England,111
+odi,2009,7,5,New Zealand,110
+odi,2009,7,6,Pakistan,107
+odi,2009,7,7,Sri Lanka,106
+odi,2009,7,8,West Indies,78
+odi,2009,7,9,Bangladesh,54
+odi,2009,7,10,Ireland,27
+odi,2009,7,11,Zimbabwe,26
+odi,2009,7,12,Kenya,0
+odi,2009,8,1,South Africa,127
+odi,2009,8,2,India,126
+odi,2009,8,3,Australia,119
+odi,2009,8,4,England,111
+odi,2009,8,5,New Zealand,110
+odi,2009,8,6,Pakistan,109
+odi,2009,8,7,Sri Lanka,104
+odi,2009,8,8,West Indies,78
+odi,2009,8,9,Bangladesh,55
+odi,2009,8,10,Ireland,27
+odi,2009,8,11,Zimbabwe,26
+odi,2009,8,12,Kenya,0
+odi,2009,9,1,Australia,128
+odi,2009,9,2,India,124
+odi,2009,9,3,South Africa,121
+odi,2009,9,4,New Zealand,110
+odi,2009,9,5,Pakistan,109
+odi,2009,9,6,England,106
+odi,2009,9,7,Sri Lanka,106
+odi,2009,9,8,West Indies,76
+odi,2009,9,9,Bangladesh,55
+odi,2009,9,10,Zimbabwe,26
+odi,2009,9,11,Ireland,25
+odi,2009,9,12,Kenya,0
+odi,2009,10,1,Australia,127
+odi,2009,10,2,India,126
+odi,2009,10,3,South Africa,121
+odi,2009,10,4,New Zealand,110
+odi,2009,10,5,Pakistan,109
+odi,2009,10,6,England,106
+odi,2009,10,7,Sri Lanka,106
+odi,2009,10,8,West Indies,76
+odi,2009,10,9,Bangladesh,54
+odi,2009,10,10,Zimbabwe,28
+odi,2009,10,11,Ireland,25
+odi,2009,10,12,Kenya,2
+odi,2009,11,1,Australia,130
+odi,2009,11,2,India,122
+odi,2009,11,3,South Africa,119
+odi,2009,11,4,New Zealand,112
+odi,2009,11,5,England,109
+odi,2009,11,6,Pakistan,108
+odi,2009,11,7,Sri Lanka,106
+odi,2009,11,8,West Indies,76
+odi,2009,11,9,Bangladesh,55
+odi,2009,11,10,Zimbabwe,26
+odi,2009,11,11,Ireland,25
+odi,2009,11,12,Kenya,2
+odi,2009,12,1,Australia,130
+odi,2009,12,2,India,123
+odi,2009,12,3,South Africa,119
+odi,2009,12,4,New Zealand,112
+odi,2009,12,5,England,109
+odi,2009,12,6,Pakistan,108
+odi,2009,12,7,Sri Lanka,105
+odi,2009,12,8,West Indies,76
+odi,2009,12,9,Bangladesh,55
+odi,2009,12,10,Zimbabwe,26
+odi,2009,12,11,Ireland,25
+odi,2009,12,12,Kenya,2
+odi,2010,1,1,Australia,133
+odi,2010,1,2,India,121
+odi,2010,1,3,South Africa,119
+odi,2010,1,4,New Zealand,112
+odi,2010,1,5,England,109
+odi,2010,1,6,Sri Lanka,108
+odi,2010,1,7,Pakistan,104
+odi,2010,1,8,West Indies,76
+odi,2010,1,9,Bangladesh,55
+odi,2010,1,10,Zimbabwe,26
+odi,2010,1,11,Ireland,25
+odi,2010,1,12,Kenya,2
+odi,2010,2,1,Australia,134
+odi,2010,2,2,India,122
+odi,2010,2,3,South Africa,117
+odi,2010,2,4,New Zealand,113
+odi,2010,2,5,England,109
+odi,2010,2,6,Sri Lanka,108
+odi,2010,2,7,Pakistan,104
+odi,2010,2,8,West Indies,74
+odi,2010,2,9,Bangladesh,53
+odi,2010,2,10,Zimbabwe,26
+odi,2010,2,11,Ireland,25
+odi,2010,2,12,Kenya,2
+odi,2010,3,1,Australia,133
+odi,2010,3,2,India,122
+odi,2010,3,3,South Africa,117
+odi,2010,3,4,New Zealand,114
+odi,2010,3,5,England,110
+odi,2010,3,6,Sri Lanka,108
+odi,2010,3,7,Pakistan,104
+odi,2010,3,8,West Indies,72
+odi,2010,3,9,Bangladesh,52
+odi,2010,3,10,Zimbabwe,27
+odi,2010,3,11,Ireland,25
+odi,2010,3,12,Kenya,2
+odi,2010,3,13,Netherlands,0
+odi,2010,4,1,Australia,134
+odi,2010,4,2,India,122
+odi,2010,4,3,South Africa,117
+odi,2010,4,4,New Zealand,114
+odi,2010,4,5,England,110
+odi,2010,4,6,Sri Lanka,108
+odi,2010,4,7,Pakistan,104
+odi,2010,4,8,West Indies,72
+odi,2010,4,9,Bangladesh,52
+odi,2010,4,10,Zimbabwe,27
+odi,2010,4,11,Ireland,24
+odi,2010,4,12,Kenya,2
+odi,2010,4,13,Netherlands,0
+odi,2010,5,1,Australia,133
+odi,2010,5,2,India,121
+odi,2010,5,3,South Africa,119
+odi,2010,5,4,New Zealand,114
+odi,2010,5,5,England,110
+odi,2010,5,6,Sri Lanka,108
+odi,2010,5,7,Pakistan,104
+odi,2010,5,8,West Indies,71
+odi,2010,5,9,Bangladesh,52
+odi,2010,5,10,Zimbabwe,29
+odi,2010,5,11,Ireland,24
+odi,2010,5,12,Kenya,2
+odi,2010,5,13,Netherlands,0
+odi,2010,6,1,Australia,130
+odi,2010,6,2,South Africa,119
+odi,2010,6,3,India,119
+odi,2010,6,4,England,115
+odi,2010,6,5,New Zealand,114
+odi,2010,6,6,Sri Lanka,109
+odi,2010,6,7,Pakistan,102
+odi,2010,6,8,West Indies,71
+odi,2010,6,9,Bangladesh,52
+odi,2010,6,10,Zimbabwe,34
+odi,2010,6,11,Ireland,23
+odi,2010,6,12,Kenya,2
+odi,2010,6,13,Netherlands,0
+odi,2010,7,1,Australia,132
+odi,2010,7,2,India,118
+odi,2010,7,3,South Africa,115
+odi,2010,7,4,New Zealand,114
+odi,2010,7,5,England,113
+odi,2010,7,6,Sri Lanka,111
+odi,2010,7,7,Pakistan,98
+odi,2010,7,8,West Indies,67
+odi,2010,7,9,Bangladesh,53
+odi,2010,7,10,Zimbabwe,36
+odi,2010,7,11,Ireland,35
+odi,2010,7,12,Netherlands,32
+odi,2010,7,13,Kenya,0
+odi,2010,8,1,Australia,132
+odi,2010,8,2,India,115
+odi,2010,8,3,Sri Lanka,115
+odi,2010,8,4,South Africa,115
+odi,2010,8,5,England,113
+odi,2010,8,6,New Zealand,112
+odi,2010,8,7,Pakistan,98
+odi,2010,8,8,West Indies,67
+odi,2010,8,9,Bangladesh,53
+odi,2010,8,10,Ireland,45
+odi,2010,8,11,Zimbabwe,36
+odi,2010,8,12,Netherlands,17
+odi,2010,8,13,Kenya,0
+odi,2010,9,1,Australia,132
+odi,2010,9,2,India,115
+odi,2010,9,3,Sri Lanka,115
+odi,2010,9,4,South Africa,115
+odi,2010,9,5,England,112
+odi,2010,9,6,New Zealand,112
+odi,2010,9,7,Pakistan,99
+odi,2010,9,8,West Indies,67
+odi,2010,9,9,Bangladesh,53
+odi,2010,9,10,Ireland,39
+odi,2010,9,11,Zimbabwe,38
+odi,2010,9,12,Netherlands,17
+odi,2010,9,13,Kenya,0
+odi,2010,10,1,Australia,130
+odi,2010,10,2,India,117
+odi,2010,10,3,Sri Lanka,115
+odi,2010,10,4,South Africa,115
+odi,2010,10,5,England,112
+odi,2010,10,6,Pakistan,100
+odi,2010,10,7,New Zealand,96
+odi,2010,10,8,West Indies,67
+odi,2010,10,9,Bangladesh,67
+odi,2010,10,10,Ireland,39
+odi,2010,10,11,Zimbabwe,37
+odi,2010,10,12,Netherlands,17
+odi,2010,10,13,Kenya,0
+odi,2010,11,1,Australia,128
+odi,2010,11,2,India,118
+odi,2010,11,3,Sri Lanka,118
+odi,2010,11,4,South Africa,115
+odi,2010,11,5,England,112
+odi,2010,11,6,Pakistan,100
+odi,2010,11,7,New Zealand,95
+odi,2010,11,8,West Indies,67
+odi,2010,11,9,Bangladesh,67
+odi,2010,11,10,Ireland,39
+odi,2010,11,11,Zimbabwe,37
+odi,2010,11,12,Netherlands,17
+odi,2010,11,13,Kenya,0
+odi,2010,12,1,Australia,128
+odi,2010,12,2,India,121
+odi,2010,12,3,Sri Lanka,118
+odi,2010,12,4,South Africa,115
+odi,2010,12,5,England,112
+odi,2010,12,6,Pakistan,100
+odi,2010,12,7,New Zealand,91
+odi,2010,12,8,West Indies,67
+odi,2010,12,9,Bangladesh,66
+odi,2010,12,10,Ireland,39
+odi,2010,12,11,Zimbabwe,37
+odi,2010,12,12,Netherlands,17
+odi,2010,12,13,Kenya,0
+odi,2011,1,1,Australia,129
+odi,2011,1,2,India,119
+odi,2011,1,3,Sri Lanka,118
+odi,2011,1,4,South Africa,118
+odi,2011,1,5,England,110
+odi,2011,1,6,Pakistan,100
+odi,2011,1,7,New Zealand,92
+odi,2011,1,8,West Indies,67
+odi,2011,1,9,Bangladesh,66
+odi,2011,1,10,Ireland,39
+odi,2011,1,11,Zimbabwe,37
+odi,2011,1,12,Netherlands,17
+odi,2011,1,13,Kenya,0
+odi,2011,2,1,Australia,131
+odi,2011,2,2,India,119
+odi,2011,2,3,South Africa,118
+odi,2011,2,4,Sri Lanka,117
+odi,2011,2,5,England,109
+odi,2011,2,6,Pakistan,103
+odi,2011,2,7,New Zealand,91
+odi,2011,2,8,Bangladesh,67
+odi,2011,2,9,West Indies,66
+odi,2011,2,10,Zimbabwe,37
+odi,2011,2,11,Ireland,37
+odi,2011,2,12,Netherlands,15
+odi,2011,2,13,Kenya,0
+odi,2011,3,1,Australia,128
+odi,2011,3,2,India,120
+odi,2011,3,3,Sri Lanka,119
+odi,2011,3,4,South Africa,116
+odi,2011,3,5,England,105
+odi,2011,3,6,Pakistan,103
+odi,2011,3,7,New Zealand,94
+odi,2011,3,8,West Indies,68
+odi,2011,3,9,Bangladesh,68
+odi,2011,3,10,Ireland,42
+odi,2011,3,11,Zimbabwe,37
+odi,2011,3,12,Netherlands,10
+odi,2011,3,13,Kenya,0
+odi,2011,4,1,Australia,129
+odi,2011,4,2,India,121
+odi,2011,4,3,Sri Lanka,118
+odi,2011,4,4,South Africa,116
+odi,2011,4,5,England,105
+odi,2011,4,6,Pakistan,104
+odi,2011,4,7,New Zealand,94
+odi,2011,4,8,Bangladesh,67
+odi,2011,4,9,West Indies,66
+odi,2011,4,10,Ireland,42
+odi,2011,4,11,Zimbabwe,37
+odi,2011,4,12,Netherlands,10
+odi,2011,4,13,Kenya,0
+odi,2011,5,1,Australia,129
+odi,2011,5,2,India,121
+odi,2011,5,3,Sri Lanka,118
+odi,2011,5,4,South Africa,116
+odi,2011,5,5,England,105
+odi,2011,5,6,Pakistan,100
+odi,2011,5,7,New Zealand,94
+odi,2011,5,8,West Indies,72
+odi,2011,5,9,Bangladesh,67
+odi,2011,5,10,Ireland,41
+odi,2011,5,11,Zimbabwe,37
+odi,2011,5,12,Netherlands,10
+odi,2011,5,13,Kenya,0
+odi,2011,6,1,Australia,129
+odi,2011,6,2,India,119
+odi,2011,6,3,Sri Lanka,117
+odi,2011,6,4,South Africa,116
+odi,2011,6,5,England,107
+odi,2011,6,6,Pakistan,100
+odi,2011,6,7,New Zealand,94
+odi,2011,6,8,West Indies,76
+odi,2011,6,9,Bangladesh,67
+odi,2011,6,10,Ireland,41
+odi,2011,6,11,Zimbabwe,37
+odi,2011,6,12,Netherlands,10
+odi,2011,6,13,Kenya,0
+odi,2011,7,1,Australia,129
+odi,2011,7,2,India,119
+odi,2011,7,3,South Africa,116
+odi,2011,7,4,Sri Lanka,116
+odi,2011,7,5,England,108
+odi,2011,7,6,Pakistan,100
+odi,2011,7,7,New Zealand,94
+odi,2011,7,8,West Indies,76
+odi,2011,7,9,Bangladesh,67
+odi,2011,7,10,Ireland,41
+odi,2011,7,11,Zimbabwe,37
+odi,2011,7,12,Netherlands,10
+odi,2011,7,13,Kenya,0
+odi,2011,8,1,Australia,130
+odi,2011,8,2,Sri Lanka,119
+odi,2011,8,3,India,117
+odi,2011,8,4,South Africa,116
+odi,2011,8,5,England,107
+odi,2011,8,6,Pakistan,100
+odi,2011,8,7,New Zealand,90
+odi,2011,8,8,West Indies,78
+odi,2011,8,9,Bangladesh,63
+odi,2011,8,10,Zimbabwe,46
+odi,2011,8,11,Ireland,41
+odi,2011,8,12,Netherlands,5
+odi,2011,8,13,Kenya,0
+odi,2011,9,1,Australia,130
+odi,2011,9,2,Sri Lanka,119
+odi,2011,9,3,South Africa,116
+odi,2011,9,4,England,113
+odi,2011,9,5,India,112
+odi,2011,9,6,Pakistan,101
+odi,2011,9,7,New Zealand,90
+odi,2011,9,8,West Indies,78
+odi,2011,9,9,Bangladesh,63
+odi,2011,9,10,Zimbabwe,44
+odi,2011,9,11,Ireland,41
+odi,2011,9,12,Netherlands,15
+odi,2011,9,13,Kenya,0
+odi,2011,10,1,Australia,130
+odi,2011,10,2,Sri Lanka,119
+odi,2011,10,3,India,118
+odi,2011,10,4,South Africa,115
+odi,2011,10,5,England,106
+odi,2011,10,6,Pakistan,101
+odi,2011,10,7,New Zealand,87
+odi,2011,10,8,West Indies,78
+odi,2011,10,9,Bangladesh,63
+odi,2011,10,10,Zimbabwe,47
+odi,2011,10,11,Ireland,41
+odi,2011,10,12,Netherlands,15
+odi,2011,10,13,Kenya,0
+odi,2011,11,1,Australia,130
+odi,2011,11,2,India,118
+odi,2011,11,3,South Africa,115
+odi,2011,11,4,Sri Lanka,112
+odi,2011,11,5,Pakistan,108
+odi,2011,11,6,England,106
+odi,2011,11,7,New Zealand,87
+odi,2011,11,8,West Indies,77
+odi,2011,11,9,Bangladesh,63
+odi,2011,11,10,Zimbabwe,47
+odi,2011,11,11,Ireland,41
+odi,2011,11,12,Netherlands,15
+odi,2011,11,13,Kenya,0
+odi,2011,12,1,Australia,130
+odi,2011,12,2,India,117
+odi,2011,12,3,South Africa,115
+odi,2011,12,4,Sri Lanka,112
+odi,2011,12,5,Pakistan,109
+odi,2011,12,6,England,106
+odi,2011,12,7,New Zealand,87
+odi,2011,12,8,West Indies,79
+odi,2011,12,9,Bangladesh,62
+odi,2011,12,10,Zimbabwe,47
+odi,2011,12,11,Ireland,41
+odi,2011,12,12,Netherlands,15
+odi,2011,12,13,Kenya,0
+odi,2012,1,1,Australia,130
+odi,2012,1,2,India,117
+odi,2012,1,3,South Africa,116
+odi,2012,1,4,Sri Lanka,111
+odi,2012,1,5,Pakistan,109
+odi,2012,1,6,England,106
+odi,2012,1,7,New Zealand,87
+odi,2012,1,8,West Indies,79
+odi,2012,1,9,Bangladesh,62
+odi,2012,1,10,Zimbabwe,47
+odi,2012,1,11,Ireland,41
+odi,2012,1,12,Netherlands,15
+odi,2012,1,13,Kenya,0
+odi,2012,2,1,Australia,129
+odi,2012,2,2,South Africa,118
+odi,2012,2,3,India,117
+odi,2012,2,4,Sri Lanka,113
+odi,2012,2,5,England,111
+odi,2012,2,6,Pakistan,104
+odi,2012,2,7,New Zealand,87
+odi,2012,2,8,West Indies,79
+odi,2012,2,9,Bangladesh,62
+odi,2012,2,10,Zimbabwe,46
+odi,2012,2,11,Ireland,36
+odi,2012,2,12,Netherlands,15
+odi,2012,2,13,Kenya,8
+odi,2012,3,1,Australia,123
+odi,2012,3,2,South Africa,118
+odi,2012,3,3,India,117
+odi,2012,3,4,England,111
+odi,2012,3,5,Sri Lanka,110
+odi,2012,3,6,Pakistan,105
+odi,2012,3,7,New Zealand,86
+odi,2012,3,8,West Indies,86
+odi,2012,3,9,Bangladesh,67
+odi,2012,3,10,Zimbabwe,46
+odi,2012,3,11,Ireland,36
+odi,2012,3,12,Netherlands,15
+odi,2012,3,13,Kenya,8
+odi,2012,4,1,Australia,123
+odi,2012,4,2,South Africa,118
+odi,2012,4,3,India,117
+odi,2012,4,4,England,111
+odi,2012,4,5,Sri Lanka,110
+odi,2012,4,6,Pakistan,105
+odi,2012,4,7,New Zealand,86
+odi,2012,4,8,West Indies,86
+odi,2012,4,9,Bangladesh,67
+odi,2012,4,10,Zimbabwe,46
+odi,2012,4,11,Ireland,36
+odi,2012,4,12,Netherlands,15
+odi,2012,4,13,Kenya,8
+odi,2012,5,1,Australia,123
+odi,2012,5,2,South Africa,118
+odi,2012,5,3,India,117
+odi,2012,5,4,England,111
+odi,2012,5,5,Sri Lanka,110
+odi,2012,5,6,Pakistan,105
+odi,2012,5,7,New Zealand,86
+odi,2012,5,8,West Indies,86
+odi,2012,5,9,Bangladesh,67
+odi,2012,5,10,Zimbabwe,46
+odi,2012,5,11,Ireland,36
+odi,2012,5,12,Netherlands,15
+odi,2012,5,13,Kenya,8
+odi,2012,6,1,Australia,123
+odi,2012,6,2,South Africa,118
+odi,2012,6,3,India,117
+odi,2012,6,4,England,112
+odi,2012,6,5,Sri Lanka,112
+odi,2012,6,6,Pakistan,103
+odi,2012,6,7,New Zealand,86
+odi,2012,6,8,West Indies,85
+odi,2012,6,9,Bangladesh,67
+odi,2012,6,10,Zimbabwe,46
+odi,2012,6,11,Ireland,36
+odi,2012,6,12,Netherlands,15
+odi,2012,6,13,Kenya,8
+odi,2012,7,1,Australia,119
+odi,2012,7,2,South Africa,118
+odi,2012,7,3,India,118
+odi,2012,7,4,England,118
+odi,2012,7,5,Sri Lanka,111
+odi,2012,7,6,Pakistan,103
+odi,2012,7,7,West Indies,88
+odi,2012,7,8,New Zealand,82
+odi,2012,7,9,Bangladesh,67
+odi,2012,7,10,Zimbabwe,46
+odi,2012,7,11,Ireland,36
+odi,2012,7,12,Netherlands,15
+odi,2012,7,13,Kenya,8
+odi,2012,8,1,England,121
+odi,2012,8,2,South Africa,120
+odi,2012,8,3,India,120
+odi,2012,8,4,Australia,114
+odi,2012,8,5,Sri Lanka,108
+odi,2012,8,6,Pakistan,103
+odi,2012,8,7,West Indies,94
+odi,2012,8,8,New Zealand,74
+odi,2012,8,9,Bangladesh,71
+odi,2012,8,10,Zimbabwe,50
+odi,2012,8,11,Ireland,35
+odi,2012,8,12,Netherlands,16
+odi,2012,8,13,Kenya,11
+odi,2012,9,1,England,121
+odi,2012,9,2,South Africa,121
+odi,2012,9,3,India,120
+odi,2012,9,4,Australia,113
+odi,2012,9,5,Sri Lanka,108
+odi,2012,9,6,Pakistan,104
+odi,2012,9,7,West Indies,94
+odi,2012,9,8,New Zealand,74
+odi,2012,9,9,Bangladesh,71
+odi,2012,9,10,Zimbabwe,50
+odi,2012,9,11,Ireland,35
+odi,2012,9,12,Netherlands,16
+odi,2012,9,13,Kenya,11
+odi,2012,10,1,England,121
+odi,2012,10,2,South Africa,121
+odi,2012,10,3,India,120
+odi,2012,10,4,Australia,113
+odi,2012,10,5,Sri Lanka,108
+odi,2012,10,6,Pakistan,104
+odi,2012,10,7,West Indies,94
+odi,2012,10,8,New Zealand,74
+odi,2012,10,9,Bangladesh,71
+odi,2012,10,10,Zimbabwe,50
+odi,2012,10,11,Ireland,35
+odi,2012,10,12,Netherlands,16
+odi,2012,10,13,Kenya,11
+odi,2012,11,1,England,121
+odi,2012,11,2,South Africa,121
+odi,2012,11,3,India,120
+odi,2012,11,4,Australia,113
+odi,2012,11,5,Sri Lanka,109
+odi,2012,11,6,Pakistan,104
+odi,2012,11,7,West Indies,90
+odi,2012,11,8,Bangladesh,75
+odi,2012,11,9,New Zealand,72
+odi,2012,11,10,Zimbabwe,50
+odi,2012,11,11,Ireland,35
+odi,2012,11,12,Netherlands,16
+odi,2012,11,13,Kenya,11
+odi,2012,12,1,England,121
+odi,2012,12,2,South Africa,121
+odi,2012,12,3,India,118
+odi,2012,12,4,Australia,113
+odi,2012,12,5,Sri Lanka,110
+odi,2012,12,6,Pakistan,106
+odi,2012,12,7,West Indies,88
+odi,2012,12,8,Bangladesh,78
+odi,2012,12,9,New Zealand,72
+odi,2012,12,10,Zimbabwe,50
+odi,2012,12,11,Ireland,35
+odi,2012,12,12,Netherlands,16
+odi,2012,12,13,Kenya,11
+odi,2013,1,1,India,119
+odi,2013,1,2,England,119
+odi,2013,1,3,Australia,113
+odi,2013,1,4,South Africa,112
+odi,2013,1,5,Sri Lanka,110
+odi,2013,1,6,Pakistan,107
+odi,2013,1,7,West Indies,88
+odi,2013,1,8,New Zealand,79
+odi,2013,1,9,Bangladesh,78
+odi,2013,1,10,Zimbabwe,50
+odi,2013,1,11,Ireland,35
+odi,2013,1,12,Netherlands,16
+odi,2013,1,13,Kenya,11
+odi,2013,2,1,India,119
+odi,2013,2,2,England,117
+odi,2013,2,3,Australia,116
+odi,2013,2,4,South Africa,112
+odi,2013,2,5,Sri Lanka,110
+odi,2013,2,6,Pakistan,107
+odi,2013,2,7,West Indies,86
+odi,2013,2,8,New Zealand,82
+odi,2013,2,9,Bangladesh,78
+odi,2013,2,10,Zimbabwe,47
+odi,2013,2,11,Ireland,35
+odi,2013,2,12,Netherlands,16
+odi,2013,2,13,Kenya,11
+odi,2013,3,1,India,119
+odi,2013,3,2,England,117
+odi,2013,3,3,Australia,116
+odi,2013,3,4,South Africa,114
+odi,2013,3,5,Sri Lanka,110
+odi,2013,3,6,Pakistan,106
+odi,2013,3,7,West Indies,86
+odi,2013,3,8,New Zealand,82
+odi,2013,3,9,Bangladesh,78
+odi,2013,3,10,Zimbabwe,47
+odi,2013,3,11,Ireland,35
+odi,2013,3,12,Netherlands,16
+odi,2013,3,13,Kenya,11
