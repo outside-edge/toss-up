@@ -1,4 +1,4 @@
-### Toss-up: The Impact of Winning the Toss on Probability of Winning
+### Toss-up: The Impact of Winning the Toss on The Probability of Winning
 
 We analyze data from nearly 43,000 first-class men's cricket matches -- a near census of the relevant population. And we make a series of discoveries that upend some conventional wisdom, and understanding based on analysis of much smaller datasets --- in fact, one [prominent previous study (pdf)](http://people.stat.sfu.ca/~tim/papers/cricket.pdf) basis its analysis on just about 1% of the data we have.
 
